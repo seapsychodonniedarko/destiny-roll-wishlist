@@ -1,23 +1,47 @@
 title:fallenmoons_wishlist
 
-// THE SWARM (god-pve)
+// THE SWARM - Fallenmoons_custom (god-pve)
 dimwishlist:item=47772649&perks=839105230,3142289711,2450788523,2848615171
 
 
-// Far Future (pve)
+// THE SWARM - Curated (god-pve)
+dimwishlist:item=47772649&perks=839105230,3142289711,2450788523,2387244414
+
+
+// Far Future - Fallenmoons_custom (pve)
 dimwishlist:item=893527433&perks=4090651448,3142289711,3436462433,2458213969
 
 
-// Bottom Dollar (god-pve,pve)
+// Far Future - Curated (pve)
+dimwishlist:item=893527433&perks=839105230,3142289711,3436462433,3592538738
+
+
+// Bottom Dollar - Curated (god-pve,pve)
 dimwishlist:item=1046651176&perks=1840239774,1561002382,2450788523,2848615171
+
+
+// Bottom Dollar - ShackNews PVP (god-pvp)
+dimwishlist:item=1046651176&perks=1392496348,3177308360,2450788523,699525795
+
+
+// Bottom Dollar - ShackNews PVE (god-pve)
+dimwishlist:item=1046651176&perks=1482024992,106909392,1168162263,2458213969
+
+
+// Bottom Dollar - Fallenmoons_custom (god-pve)
+dimwishlist:item=1046651176&perks=3250034553,106909392,247725512,2458213969
 
 
 // Shadow Price (god-pve)
 dimwishlist:item=2633186522&perks=839105230,3142289711,4252909580,4049631843
 
 
-// Frozen Orbit (god-pve)
+// Frozen Orbit - Fallenmoons_PVE_GOD (god-pve)
 dimwishlist:item=3473290087&perks=3661387068,1087426260,2450788523,2848615171
+
+
+// Frozen Orbit - Fallenmoons_custom (pve)
+dimwishlist:item=3473290087&perks=1840239774,106909392,3300816228,1015611457
 
 
 // The Time-Worn Spire (god-pvp,god-pve)
@@ -28,11 +52,11 @@ dimwishlist:item=3593598010&perks=13792278,1968497646,2779035018,3425386926
 dimwishlist:item=3717177717&perks=2209280307,3142289711,2450788523,1015611457
 
 
-// THE SWARM (Adept) (god-pve)
+// THE SWARM (Adept) - Custom (god-pve)
 dimwishlist:item=3836861464&perks=1482024992,1087426260,1168162263,2848615171
 
 
-// THE SWARM (Adept) (god-pve)
+// THE SWARM (Adept) - Curated Roll (god-pve)
 dimwishlist:item=3836861464&perks=839105230,3142289711,2450788523,2387244414
 
 
