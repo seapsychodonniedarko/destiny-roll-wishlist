@@ -37,6 +37,19 @@ dimwishlist:item=471518543&perks=1392496348,106909392,2779035018,3824105627
 dimwishlist:item=471518543&perks=1392496348,1087426260,1820235745,3824105627
 
 
+// BrayTech Werewolf - Smallbore + High-Caliber + Dynamic Sway + Swashbuckler (god-pvp)
+dimwishlist:item=528834068&perks=1482024992,1561002382,1359896290,4082225868
+
+
+// BrayTech Werewolf - Smallbore + Appended + Fourth Time + Vorpal (god-pve)
+dimwishlist:item=528834068&perks=1482024992,1087426260,1354429876,1546637391
+dimwishlist:item=528834068&perks=1482024992,1087426260,1354429876,4082225868
+
+
+// BrayTech Werewolf - Smallbore + Ricochet + Dynamic Sway + Elemental Capacitor (god-pvp)
+dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,3511092054
+
+
 // Peacebond - Peaceful Clearance (god-pve)
 //notes: Ad clear with stasis headshots and return ammo with subsistence. tags:god-pve
 dimwishlist:item=829330711&perks=1467527085,3142289711,1820235745,124408337
@@ -92,6 +105,10 @@ dimwishlist:item=1097616550&perks=4090651448,1087426260,1820235745,3425386926
 dimwishlist:item=1097616550&perks=1467527085,3142289711,2387244414,1890422124
 
 
+// Servant Leader - Accuried + Rapid + Rampage (god-pvp)
+dimwishlist:item=1107446438&perks=4090651448,3142289711,247725512,3425386926
+
+
 // Chroma Rush - Steady Rounds + Rampage/Adrenaline (god-pve)
 dimwishlist:item=1119734784&perks=3661387068,3177308360,1359896290,3425386926
 dimwishlist:item=1119734784&perks=3661387068,3177308360,1359896290,11612903
@@ -104,6 +121,11 @@ dimwishlist:item=1119734784&perks=3250034553,3230963543,1570042021,11612903
 dimwishlist:item=1119734784&perks=3250034553,3177308360,1570042021,11612903
 
 
+// Sola's Scar - Honed + Burst + Relentless + Chain Reaction (god-pve)
+dimwishlist:item=1313528549&perks=2827049491,3625355092,1749209109,2396489472
+dimwishlist:item=1313528549&perks=436053704,3625355092,1749209109,2396489472
+
+
 // Reed's Regret - Boss's Regret (god-pve,mnk)
 dimwishlist:item=1399243961&perks=1467527085,1687452232,3400784728,1546637391
 
@@ -111,6 +133,16 @@ dimwishlist:item=1399243961&perks=1467527085,1687452232,3400784728,1546637391
 // Reed's Regret - Reed's Patrol (god-pve,mnk)
 dimwishlist:item=1399243961&perks=4090651448,2680121939,1570042021,124408337
 dimwishlist:item=1399243961&perks=4090651448,2680121939,2450788523,124408337
+
+
+// Judgment - Fastdraw + Accurized + Demolitionist + Adagio/Timed Payload (god-pve)
+dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,3673922083
+dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,1954620775
+
+
+// Judgment - Fastdraw + Accurized + Tunnel Vision + Timed Payload (god-pvp)
+dimwishlist:item=1476654960&perks=1926090094,3142289711,2946784966,1954620775
+dimwishlist:item=1476654960&perks=1926090094,3142289711,2946784966,47981717
 
 
 // Friction Fire - Tactical + Threat Detector + Vorpal (god-pve)
@@ -134,6 +166,23 @@ dimwishlist:item=1967303408&perks=1392496348,1087426260,2450788523,3425386926
 // Canis Major - Canis Major BOOM (mnk,god-pve)
 //notes: Big crowd control tags:mnk,god-pve
 dimwishlist:item=2066434718&perks=1478423395,1380253176,951095735,2396489472
+
+
+// Jurassic Green - Chambered + Extended + Heating Up + MultiKill (god-pve)
+dimwishlist:item=2261046232&perks=3661387068,2420895100,1570042021,2458213969
+
+
+// Jurassic Green - Chambered + Ricochet + Heating Up + MultiKill (god-pvp)
+dimwishlist:item=2261046232&perks=3661387068,1885400500,1570042021,2458213969
+
+
+// Jurassic Green - Smallbore + Appended + Subsistence + Frenzy (god-pve)
+dimwishlist:item=2261046232&perks=1482024992,1087426260,1820235745,4104185692
+dimwishlist:item=2261046232&perks=1482024992,1968497646,1820235745,4104185692
+
+
+// Jurassic Green - Hammer-Forged + Ricochet + Heating Up + Adrenaline Junkie (god-pvp)
+dimwishlist:item=2261046232&perks=3250034553,1885400500,1570042021,11612903
 
 
 // Shadow Price (god-pve)
