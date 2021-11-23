@@ -201,6 +201,10 @@ dimwishlist:item=3473290087&perks=1840239774,106909392,3300816228,1015611457
 dimwishlist:item=3593598010&perks=13792278,1968497646,2779035018,3425386926
 
 
+// Dead Man's Tale - Smallbore + Steady + Vorpal  Fitted Stock (god-pvp)
+dimwishlist:item=3654674561&perks=1482024992,3177308360,1546637391,4259401308
+
+
 // Multimach CCX (pvp)
 dimwishlist:item=3717177717&perks=2209280307,3142289711,2450788523,1015611457
 
@@ -216,6 +220,10 @@ dimwishlist:item=3836861464&perks=1482024992,1087426260,1168162263,2848615171
 
 // THE SWARM (Adept) - Curated Roll (god-pve)
 dimwishlist:item=3836861464&perks=839105230,3142289711,2450788523,2387244414
+
+
+// Hawkmoon - Hammer-Forged + Killing Wind + Combat Grip (god-pvp)
+dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,3438534621
 
 
 // The Hothead - Boss Damage (god-pve,mnk)
