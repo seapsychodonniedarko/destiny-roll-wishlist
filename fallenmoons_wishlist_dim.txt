@@ -285,5 +285,5 @@ dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,3824105627
 dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,3038247973
 
 // BXR-55 BATTLER - Arrowhead + Ricochet + Killing Wind + Blunt Execution (god-pvp)
-//notes:Fallenmoons
+//notes: Fallenmoons
 dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,454085387,384158423
