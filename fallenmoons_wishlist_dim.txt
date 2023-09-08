@@ -1,12 +1,18 @@
 title:fallenmoons_wishlist
 description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE.
 
-///////// Season 22
+///////// Season 22 - Season of the Witch
+
+
+///// Seasonal
 
 
 // Semiotician - Field Prep + Explosive Light (god-pve)
 //notes: Hard hitting direct hits tags:god-pve
 dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,3194351027
+
+
+///// Ritual
 
 
 // Pre Astyanax IV - Archer's Tempo + Precision Instrument (god-pve)
@@ -45,10 +51,10 @@ dimwishlist:item=358788212&perks=839105230,3177308360,3828510309,124408337
 dimwishlist:item=358788212&perks=839105230,3177308360,3828510309,4104185692
 
 
-///////// Season 21
+///////// Season 21 - Season of the Deep
 
 
-///////// Season 20
+///////// Season 20 - Season of Defiance
 
 
 // Raconteur - Tempo + Headstone (god-pve)
@@ -56,19 +62,25 @@ dimwishlist:item=358788212&perks=839105230,3177308360,3828510309,4104185692
 dimwishlist:item=45643573&perks=201365942,124408337
 
 
-///////// Season 19
+///////// Season 19 - Season of the Seraph
 
 
 // Fire and Forget (god-pve)
-//notes: tags:god-pve
+//tags:god-pve
 dimwishlist:item=2272041093&perks=839105230,2680121939,124408337,2978966579
 
 
-///////// Season 18
+// Retrofit Escapade (god-pve)
+//tags:god-pve
+dimwishlist:item=3103325054&perks=839105230,3142289711,1354429876,365154968
+dimwishlist:item=3103325054&perks=839105230,106909392,1354429876,365154968
+
+
+///////// Season 18 - Season of Plunder
 
 
 // Tarnished Mettle - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//tags:god-pve
 dimwishlist:item=2218569744&perks=3250034553,3142289711,3523296417,2848615171,3907865655
 dimwishlist:item=2218569744&perks=3250034553,3142289711,3523296417,3038247973,3907865655
 dimwishlist:item=2218569744&perks=3250034553,3142289711,3523296417,2173046394,3907865655
@@ -84,7 +96,7 @@ dimwishlist:item=2218569744&perks=1840239774,3142289711,1354429876,2173046394,39
 
 
 // Smite of Merain - Fallenmoons_GodPvE (god-pve,god-pvp)
-//notes: Fallenmoons_GodPvE tags:god-pve,god-pvp
+//tags:god-pve,god-pvp
 dimwishlist:item=2221264583&perks=839105230,3177308360,3523296417,1546637391
 dimwishlist:item=2221264583&perks=839105230,3177308360,3523296417,3824105627
 dimwishlist:item=2221264583&perks=839105230,3177308360,1583705720,1546637391
@@ -93,6 +105,20 @@ dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,1546637391
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627
 dimwishlist:item=2221264583&perks=839105230,3142289711,1583705720,1546637391
 dimwishlist:item=2221264583&perks=839105230,3142289711,1583705720,3824105627
+
+
+/////// Season 16 - Season of the Resistance
+
+
+// Under Your Skin - fallenmoons_PVE (god-pve)
+//notes: tags:god-pve
+    dimwishlist:item=232928045&perks=852209214,3311977193,201365942,2848615171,1536798515
+    dimwishlist:item=232928045&perks=852209214,3311977193,201365942,1048183818,1536798515
+// Under Your Skin - tassi_PVE (god-pve)
+//notes: tags:god-pve
+    dimwishlist:item=232928045&perks=852209214,3311977193,3523746922,617966211,1536798515
+
+
 
 
 // Other
@@ -121,17 +147,6 @@ dimwishlist:item=47772649&perks=839105230,3142289711,2450788523,2387244414
 //notes: Fallenmoons_custom tags:god-pvp
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,1546637391
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,4082225868
-
-
-// Under Your Skin - fallenmoons_PVE (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=232928045&perks=852209214,3311977193,201365942,2848615171,1536798515
-dimwishlist:item=232928045&perks=852209214,3311977193,201365942,1048183818,1536798515
-
-
-// Under Your Skin - tassi_PVE (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=232928045&perks=852209214,3311977193,3523746922,617966211,1536798515
 
 
 // Regnant - Repulsor Brace + Destablise (god-pve)
@@ -993,12 +1008,6 @@ dimwishlist:item=3055790362&perks=1840239774,1885400500,3400784728,3523296417
 dimwishlist:item=3055790362&perks=1840239774,1885400500,1168162263,3523296417
 dimwishlist:item=3055790362&perks=1840239774,1561002382,3400784728,3523296417
 dimwishlist:item=3055790362&perks=1840239774,1561002382,1168162263,3523296417
-
-
-// Retrofit Escapade (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=3103325054&perks=839105230,3142289711,1354429876,365154968
-dimwishlist:item=3103325054&perks=839105230,106909392,1354429876,365154968
 
 
 // Half-Truths - Fallenmoons_GodPvE (god-pve)
