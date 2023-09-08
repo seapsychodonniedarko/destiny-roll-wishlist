@@ -4,12 +4,12 @@ description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. F
 ///////// Season 22 - Season of the Witch
 
 // Nox Perennial V - Lead from Gold + Controlled Burst (god-pve)
-//notes: tags:god-pve
+//notes: tags:god-pve,fallenmoons
 dimwishlist:item=2767393525&perks=839105230,2680121939,1556840489,2594592626,1050127423
 
 
 // Psi Hermetic V - Enlightened + Headstone/Frenzy (god-pve)
-//notes: tags:god-pve
+//notes: tags:god-pve,fallenmoons
 dimwishlist:item=358788212&perks=839105230,3177308360,3828510309,124408337
 dimwishlist:item=358788212&perks=839105230,3177308360,3828510309,4104185692
 
@@ -17,7 +17,7 @@ dimwishlist:item=358788212&perks=839105230,3177308360,3828510309,4104185692
 //// Seasonal
 
 // Semiotician - Field Prep + Explosive Light (god-pve)
-//notes: Hard hitting direct hits tags:god-pve
+//notes: Hard hitting direct hits tags:god-pve,fallenmoons
 dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,3194351027
 
 
