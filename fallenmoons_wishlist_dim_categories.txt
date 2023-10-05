@@ -34,6 +34,8 @@ dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,3194351027
 // Raconteur (god-pve)
 //notes: tags:god-pve,fallenmoons
 dimwishlist:item=45643573&perks=201365942,124408337
+//notes: tags:god-pvp,fallenmoons
+dimwishlist:item=45643573&perks=4067834857,3429800428,3436462433,3365897133
 
 // Regnant (god-pve)
 //notes: tags:god-pve
