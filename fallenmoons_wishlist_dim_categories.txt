@@ -626,6 +626,10 @@ dimwishlist:item=3593598010&perks=13792278,1968497646,2779035018,3425386926
 // Nightfalls
 /////////////////////////////////////////////
 
+// Braytech Osprey (god-pve)
+//notes: Ad-Clear-Palooza  tags:god-pve,fallenmoons
+dimwishlist:item=3667553455&perks=1441682018,2822142346,1275731761,2396489472,1281216113
+
 // Pre Astyanax IV (god-pve)
 //notes: Precision cycle enhancement  tags:god-pve,fallenmoons
 dimwishlist:item=192784503&perks=1784898267,3429800428,201365942,555281244,1050127423
