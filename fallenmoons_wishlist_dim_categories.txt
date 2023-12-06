@@ -422,6 +422,12 @@ dimwishlist:item=3473290087&perks=1840239774,106909392,3300816228,1015611457
 
 ////// Gambit //////
 
+// Breakneck (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=2026755633&perks=839105230,3230963543,1820235745,95528736
+//notes: tags:pve,fallenmoons
+dimwishlist:item=2026755633&perks=839105230,3230963543,1359896290,243981275
+
 // Qua Xaphan V (god-pve)
 //notes: tags:god-pve,fallenmoons
 dimwishlist:item=1975125963&perks=839105230,1087426260,2284787283,2048641572
@@ -814,6 +820,20 @@ dimwishlist:item=471518543&perks=1392496348,1087426260,1820235745,3824105627
 /////////////////////////////////////////////
 // Dungeons
 /////////////////////////////////////////////
+
+////// Warlord's Ruin //////
+
+// Dragoncult Sickle (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=3668817296&perks=3666208348,269888150,3523296417,2396489472
+
+// Vengeful Whisper (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=839344841&perks=2801223209,3827198035,923806249,831391274
+
+// Indebted Kindness (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=3381450498&perks=3798852852,2822142346,951095735,2173046394
 
 ////// Ghosts of the Deep //////
 
