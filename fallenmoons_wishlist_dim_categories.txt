@@ -705,6 +705,25 @@ dimwishlist:item=3836861464&perks=839105230,3142289711,2450788523,2387244414
 
 ////// Root of Nightmares //////
 
+// Word of Crota (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=120706239&perks=202670084,3142289711,2848615171,31345821
+
+// Abyss Defiant (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=833898322&perks=839105230,3230963543,1820235745,4293542123
+dimwishlist:item=833898322&perks=839105230,3230963543,1820235745,31345821
+
+// Fang of Ir Yût (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=1432682459&perks=839105230,3230963543,3418782618,831391274
+
+// Song of Ir Yût (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=2828278545&perks=839105230,2420895100,1523832109,31345821
+
+////// Root of Nightmares //////
+
 // Koraxis's Distress (god-pve)
 //notes: tags:god-pve,fallenmoons
 dimwishlist:item=2972949637&perks=1441682018,1380253176,2396489472,831391274
@@ -834,6 +853,8 @@ dimwishlist:item=839344841&perks=2801223209,3827198035,923806249,831391274
 // Indebted Kindness (god-pve)
 //notes: tags:god-pve,fallenmoons
 dimwishlist:item=3381450498&perks=3798852852,2822142346,951095735,2173046394
+dimwishlist:item=3381450498&perks=981914802,1380253176,2859149211,2173046394
+dimwishlist:item=3381450498&perks=981914802,1380253176,951095735,2428997981
 
 ////// Ghosts of the Deep //////
 
