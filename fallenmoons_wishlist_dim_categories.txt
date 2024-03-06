@@ -1017,10 +1017,19 @@ dimwishlist:item=3000847393&perks=3250034553,1561002382,2946784966,3425386926
 
 ////// Prophecy //////
 
+// Adjudicator (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=1013434963&perks=839105230,3230963543,1820235745,95528736
+
+// Relentless (god-pve)
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=435821041&perks=839105230,3230963543,923806249,831391274
+
 // Judgment (god-pve)
 //notes: tags:god-pve,fallenmoons
 dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,3673922083
 dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,1954620775
+dimwishlist:item=2969415423&perks=1926090094,3142289711,124408337,1954620775
 //notes: tags:god-pvp,fallenmoons (god-pvp)
 dimwishlist:item=1476654960&perks=1926090094,3142289711,2946784966,1954620775
 dimwishlist:item=1476654960&perks=1926090094,3142289711,2946784966,47981717
@@ -1063,6 +1072,11 @@ dimwishlist:item=396910433&perks=2827049491,269888150,1774574192,3650930298
 dimwishlist:item=396910433&perks=2827049491,269888150,1774574192,2396489472
 
 ////// Guardian Games //////
+
+// Hullabaloo
+//notes: tags:god-pve,fallenmoons
+dimwishlist:item=657927352&perks=981914802,2822142346,2173046394,2396489472
+dimwishlist:item=657927352&perks=981914802,2822142346,3300816228,2396489472
 
 // The Title (god-pve)
 //notes: tags:god-pve,fallenmoons
