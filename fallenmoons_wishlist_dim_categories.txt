@@ -6,11 +6,11 @@ description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. F
 /////////////////////////////////////////////
 
 // Dead Man's Tale (god-pvp)
-//notes: tags:god-pvp,fallenmoons
+//notes: tags:god-pvp, fallenmoons
 dimwishlist:item=3654674561&perks=1482024992,3177308360,1546637391,4259401308
 
 // Hawkmoon (god-pvp)
-//notes: tags:god-pvp,fallenmoons
+//notes: tags:god-pvp, fallenmoons
 dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,3438534621
 
 // Dead Messenger
@@ -21,10 +21,37 @@ dimwishlist:item=46125926&perks=981914802,2822142346,4259401308,3523296417,31898
 // Seasonal
 /////////////////////////////////////////////
 
+////// Season 23B - Into the Light //////
+
+// Edge Transit
+//notes: Hard hitting direct hits tags:god-pve, fallenmoons
+dimwishlist:item=568611923&perks=1478423395,2985827016,968510818,3078487919
+dimwishlist:item=568611923&perks=3798852852,2822142346,2396489472,2048641572
+dimwishlist:item=568611923&perks=3798852852,2822142346,776531651,2048641572
+
+// Elsie's Rifle
+//notes: tags:god-pvp, fallenmoons
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=2372514509&perks=839105230,1885400500,776531651,2048641572
+
+// Hung Jury SR4
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=1453235079&perks=839105230,3142289711,3891536761,3824105627
+dimwishlist:item=1453235079&perks=839105230,3142289711,3418782618,2109543898
+
+// The Recluse
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=3098328572&perks=1392496348,1885400500,2779035018,3081867624
+dimwishlist:item=3098328572&perks=839105230,1885400500,1820235745,4104185692
+dimwishlist:item=3098328572&perks=839105230,1885400500,776531651,2048641572
+
+////// Season 23 - Season of the Wish //////
+
 ////// Season 22 - Season of the Witch //////
 
 // Semiotician (god-pve)
-//notes: Hard hitting direct hits tags:god-pve,fallenmoons
+//notes: Hard hitting direct hits | tags:god-pve, fallenmoons
 dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,3194351027
 
 ////// Season 21 - Season of the Deep //////
