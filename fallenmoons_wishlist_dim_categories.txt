@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with BRAVE arsenal. Last updated: 20-04-2024
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with BRAVE arsenal. Last updated: 27-04-2024
 
 /////////////////////////////////////////////
 // Exotics
@@ -9,13 +9,13 @@ description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. F
 //notes: tags:god-pvp, fallenmoons
 dimwishlist:item=3654674561&perks=1482024992,3177308360,1546637391,4259401308
 
-// Hawkmoon (god-pvp)
-//notes: tags:god-pvp, fallenmoons
-dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,3438534621
-
 // Dead Messenger
 //notes: tags: fallenmoons
 dimwishlist:item=46125926&perks=981914802,2822142346,4259401308,3523296417,3189860891
+
+// Hawkmoon (god-pvp)
+//notes: tags:god-pvp, fallenmoons
+dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,3438534621
 
 // Whisper of the Worm
 //notes: tags: fallenmoons
@@ -47,13 +47,13 @@ dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=2372514509&perks=839105230,1885400500,776531651,2048641572
 
-// Hammerhead
+// Hammerhead (god-pve)
 //notes: tags:god-pve, fallenmoons
+dimwishlist:item=1896309757&perks=839105230,3230963543,3425386926,557221067
+// Hammerhead (pve)
+//notes: tags:pve, fallenmoons
 dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,365154968
 dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,557221067
-dimwishlist:item=1896309757&perks=839105230,3230963543,968510818,365154968
-dimwishlist:item=1896309757&perks=839105230,3230963543,968510818,557221067
-dimwishlist:item=1896309757&perks=839105230,3230963543,2048641572,557221067
 
 // Hung Jury SR4
 //notes: tags:god-pve, fallenmoons
