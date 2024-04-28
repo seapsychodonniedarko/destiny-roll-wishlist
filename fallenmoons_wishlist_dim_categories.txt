@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with BRAVE arsenal. Last updated: 27-04-2024
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with BRAVE arsenal. Last updated: 28-04-2024
 
 /////////////////////////////////////////////
 // Exotics
@@ -55,10 +55,13 @@ dimwishlist:item=2372514509&perks=839105230,1885400500,776531651,2048641572
 // Hammerhead (god-pve)
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=1896309757&perks=839105230,3230963543,3425386926,557221067
+dimwishlist:item=211732170&perks=839105230,3230963543,3425386926,557221067    //Holofoil
 // Hammerhead (pve)
 //notes: tags:pve, fallenmoons
 dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,365154968
+dimwishlist:item=211732170&perks=839105230,3230963543,3418782618,365154968    //Holofoil
 dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,557221067
+dimwishlist:item=211732170&perks=839105230,3230963543,3418782618,557221067    //Holofoil
 
 // Hung Jury SR4
 //notes: tags:god-pve, fallenmoons | MW:Reload
