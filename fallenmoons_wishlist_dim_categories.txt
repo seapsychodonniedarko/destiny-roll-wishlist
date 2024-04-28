@@ -66,6 +66,7 @@ dimwishlist:item=211732170&perks=839105230,3230963543,3418782618,557221067    //
 // Hung Jury SR4
 //notes: tags:god-pve, fallenmoons | MW:Reload
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3824105627    //Holofoil
 
 // Falling Guillotine 
 //notes: tags:god-pve, ad-clear, fallenmoons
