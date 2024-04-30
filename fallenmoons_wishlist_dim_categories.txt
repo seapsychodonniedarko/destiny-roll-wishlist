@@ -77,11 +77,11 @@ dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3078487919
 dimwishlist:item=243425374&perks=3666208348,269888150,4104185692,3078487919     //Holofoil
 
 // Luna's Howl 
-//notes: "#god-pve #fallenmoons | MW:Reload"
+//notes: #god-pve #fallenmoons | MW:Reload
 dimwishlist:item=2763843899&perks=839105230,3230963543,3017780555,4293542123
-//notes: "#god-pve #fallenmoons | MW:Handling"
+//notes: #god-pve #fallenmoons | MW:Handling
 dimwishlist:item=2763843899&perks=839105230,3230963543,1820235745,4293542123
-//notes: "#god-pvp #fallenmoons | MW:Range"
+//notes: #god-pvp #fallenmoons | MW:Range
 dimwishlist:item=2763843899&perks=839105230,1885400500,3828510309,2720533289
 
 // Midnight Coup
