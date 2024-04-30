@@ -64,7 +64,7 @@ dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,557221067
 dimwishlist:item=211732170&perks=839105230,3230963543,3418782618,557221067    //Holofoil
 
 // Hung Jury SR4
-//notes: tags:god-pve, fallenmoons | MW:Reload
+//notes: tags:god-pve, fallenmoons (MW:Reload)
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
 dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3824105627    //Holofoil
 
@@ -77,33 +77,33 @@ dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3078487919
 dimwishlist:item=243425374&perks=3666208348,269888150,4104185692,3078487919     //Holofoil
 
 // Luna's Howl 
-//notes: #god-pve #fallenmoons | MW:Reload
+//notes: tags:god-pve, fallenmoons (MW:Reload)
 dimwishlist:item=2763843899&perks=839105230,3230963543,3017780555,4293542123
-//notes: #god-pve #fallenmoons | MW:Handling
+//notes: tags:god-pve, fallenmoons (MW:Handling)
 dimwishlist:item=2763843899&perks=839105230,3230963543,1820235745,4293542123
-//notes: #god-pvp #fallenmoons | MW:Range
+//notes: tags:god-pvp, fallenmoons (MW:Range)
 dimwishlist:item=2763843899&perks=839105230,1885400500,3828510309,2720533289
 
 // Midnight Coup
-//notes: tags:god-pve, fallenmoons MW:Range
+//notes: tags:god-pve, fallenmoons (MW:Range)
 dimwishlist:item=2763843898&perks=839105230,3230963543,3824105627,4104185692
 dimwishlist:item=2499720827&perks=839105230,3230963543,3824105627,4104185692    //Holofoil
 dimwishlist:item=2763843898&perks=839105230,106909392,3824105627,4049631843
 dimwishlist:item=2499720827&perks=839105230,106909392,3824105627,4049631843     //Holofoil
-//notes: tags:pve, fallenmoons MW:Handling
+//notes: tags:pve, fallenmoons (MW:Handling)
 dimwishlist:item=2763843898&perks=839105230,3230963543,243981275,3891536761
 dimwishlist:item=2499720827&perks=839105230,3230963543,243981275,3891536761     //Holofoil
 dimwishlist:item=2763843898&perks=839105230,3230963543,3038247973,4104185692
 dimwishlist:item=2499720827&perks=839105230,3230963543,3038247973,4104185692    //Holofoil
 
 // The Mountaintop
-//notes: tags:god-pve, fallenmoons MW:Velocity
+//notes: tags:god-pve, fallenmoons (MW:Velocity)
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,1546637391
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,4104185692
 
 // The Recluse
-//notes: tags:god-pve, fallenmoons MW:Range or Stability
+//notes: tags:god-pve, fallenmoons (MW:Range or Stability)
 dimwishlist:item=3098328572&perks=1482024992,1885400500,776531651,2048641572
 dimwishlist:item=1050806815&perks=1482024992,1885400500,1820235745,4104185692
 
@@ -112,7 +112,7 @@ dimwishlist:item=1050806815&perks=1482024992,1885400500,1820235745,4104185692
 ////// Season 22 - Season of the Witch //////
 
 // Semiotician (god-pve)
-//notes: Hard hitting direct hits | tags:god-pve, fallenmoons
+//notes: Hard hitting direct hits. tags:god-pve, fallenmoons
 dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,3194351027
 
 ////// Season 21 - Season of the Deep //////
