@@ -31,6 +31,27 @@ dimwishlist:item=3824673936&perks=839105230,3230963543,2578928833,990298390
 // Seasonal
 /////////////////////////////////////////////
 
+////// Episode: Echoes //////
+
+// Faith-Keeper
+dimwishlist:item=4195186942&perks=3798852852,2822142346,2284787283,1439600632
+
+// Ill Omen
+dimwishlist:item=3794274730&perks=3666208348,269888150,243981275,3650930298
+
+// Lost Signal
+dimwishlist:item=1197771438&perks=3809316345,3492396210,3300816228,563069569
+
+// Sightline Survey
+dimwishlist:item=2350330520&perks=839105230,3230963543,3828510309,2173046394
+
+// Timeworn Wayfarer
+dimwishlist:item=1058098236&perks=839105230,3230963543,3017780555,4293542123
+dimwishlist:item=1058098236&perks=839105230,3230963543,25606670,4293542123
+
+// Veiled Threat
+dimwishlist:item=3685470415&perks=839105230,106909392,3700496672,124408337
+
 ////// Season 23B - Into the Light //////
 
 // Blast Furnace
