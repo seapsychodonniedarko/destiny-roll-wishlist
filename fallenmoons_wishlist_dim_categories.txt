@@ -33,24 +33,62 @@ dimwishlist:item=3824673936&perks=839105230,3230963543,2578928833,990298390
 
 ////// Episode: Echoes //////
 
+// Aberrant Action
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=2198166292&perks=3525010810,2822142346,3017780555,4293542123
+dimwishlist:item=2198166292&perks=3525010810,3230963543,4223976499,2675184851
+//notes: tags:pve, fallenmoons
+dimwishlist:item=2198166292&perks=3525010810,3230963543,2859149211,563069569
+dimwishlist:item=2198166292&perks=3525010810,3230963543,1135494563,2167611941
+
+// Chronophage
+//notes: fallenmoons
+dimwishlist:item=1886840007&perks=839105230,732557052,3300816228,2048641572
+
+// Corrasion
+//notes: fallenmoons
+dimwishlist:item=2126178511&perks=839105230,3230963543,684456054,2173046394
+dimwishlist:item=2126178511&perks=839105230,3230963543,2785334058,1720528630
+
 // Faith-Keeper
+//notes: fallenmoons
 dimwishlist:item=4195186942&perks=3798852852,2822142346,2284787283,1439600632
 
 // Ill Omen
+//notes: fallenmoons
 dimwishlist:item=3794274730&perks=3666208348,269888150,243981275,3650930298
 
 // Lost Signal
+//notes: fallenmoons
 dimwishlist:item=1197771438&perks=3809316345,3492396210,3300816228,563069569
 
+// Martyr's Retribution
+//notes: fallenmoons
+dimwishlist:item=2584830733&perks=981914802,3492396210,3017780555,4293542123
+dimwishlist:item=2584830733&perks=981914802,2822142346,3017780555,4293542123
+dimwishlist:item=2584830733&perks=981914802,2822142346,3017780555,1015611457
+
+// Perfect Paradox
+//notes: fallenmoons
+dimwishlist:item=1298672084&perks=466087222,106909392,691659142,2360754333
+
 // Sightline Survey
+//notes: fallenmoons
 dimwishlist:item=2350330520&perks=839105230,3230963543,3828510309,2173046394
 
+// Speleologist
+//notes: fallenmoons
+dimwishlist:item=412251536&perks=839105230,3142289711,3993379141,4293542123
+
 // Timeworn Wayfarer
+//notes: fallenmoons
 dimwishlist:item=1058098236&perks=839105230,3230963543,3017780555,4293542123
 dimwishlist:item=1058098236&perks=839105230,3230963543,25606670,4293542123
 
 // Veiled Threat
+//notes: fallenmoons
 dimwishlist:item=3685470415&perks=839105230,106909392,3700496672,124408337
+
 
 ////// Season 23B - Into the Light //////
 
@@ -844,6 +882,12 @@ dimwishlist:item=3836861464&perks=839105230,3142289711,2450788523,2387244414
 /////////////////////////////////////////////
 // Raids
 /////////////////////////////////////////////
+
+////// Salvation's Edge //////
+
+// Non-Denouement
+dimwishlist:item=1770490683&perks=852209214,3311977193,201365942,2173046394
+dimwishlist:item=1770490683&perks=852209214,3311977193,2848615171,2173046394
 
 ////// Root of Nightmares //////
 
