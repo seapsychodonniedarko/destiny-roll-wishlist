@@ -637,6 +637,10 @@ dimwishlist:item=1046651176&perks=1840239774,1561002382,2846385770,3425386926
 // World Drops
 /////////////////////////////////////////////
 
+// Ded Gramarye IV (god-pve)
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=499245245&perks=466087222,791862061,684456054,2396489472
+
 // Nox Perennial V (god-pve)
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=2767393525&perks=839105230,2680121939,1556840489,2594592626,1050127423
