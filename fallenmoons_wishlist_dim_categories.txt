@@ -27,6 +27,35 @@ dimwishlist:item=3824673936&perks=839105230,3230963543,2578928835,990298390
 dimwishlist:item=3824673936&perks=839105230,3230963543,2578928832,990298390
 dimwishlist:item=3824673936&perks=839105230,3230963543,2578928833,990298390
 
+// Class Items
+// Hunter - Relativism
+//notes: 
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+//notes: Melee shinanigans
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+
+// Titan - Stoicism
+//notes: Barricade utility overhaul
+dimwishlist:item=266021826&perks=3573490510,3573490506
+//notes: Melee shinanigans
+dimwishlist:item=266021826&perks=3573490509,3573490504
+//notes: Buffed invisible melee
+dimwishlist:item=266021826&perks=1476923952,1476923956
+
+// Warlocks - Solipsism
+//notes: Poision melee spam
+dimwishlist:item=2273643087&perks=183430252,183430247
+//notes: Supercharged empowering rifts
+dimwishlist:item=2273643087&perks=183430255,183430249
+//notes: Grenade build
+dimwishlist:item=2273643087&perks=1476923953,1476923957
+//notes: Grenade build
+dimwishlist:item=2273643087&perks=183430253,1476923957
+//notes: Buffed grenade spam after super end
+dimwishlist:item=2273643087&perks=183430250,1476923957
+
+
+
 /////////////////////////////////////////////
 // Seasonal
 /////////////////////////////////////////////
