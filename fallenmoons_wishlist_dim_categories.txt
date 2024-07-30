@@ -29,7 +29,7 @@ dimwishlist:item=3824673936&perks=839105230,3230963543,2578928833,990298390
 
 // Class Items
 // Hunter - Relativism
-//notes: 
+//notes: Woven grenades
 dimwishlist:item=2809120022&perks=1476923953,3751917994
 //notes: Melee shinanigans
 dimwishlist:item=2809120022&perks=3751917996,3751917992
