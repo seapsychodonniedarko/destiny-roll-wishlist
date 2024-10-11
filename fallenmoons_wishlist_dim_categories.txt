@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with TFS & Echoes weapons and Exotic class items. Last updated: 09/07/24
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with Episode Revenant seasonal weapons. Last updated: 11/10/2024
 
 /////////////////////////////////////////////
 // Exotics
@@ -59,6 +59,32 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 /////////////////////////////////////////////
 // Seasonal
 /////////////////////////////////////////////
+
+////// Episode: Revenant //////
+
+// BitterSweet
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=2599338625&perks=3798852852,2985827016,3108830275,3966416502
+
+// Exuviae
+//notes: tags:god-pve, fallenmoons MW: Stability or Reload
+dimwishlist:item=2823644677&perks=4090651448,3230963543,1955165503,124408337
+
+// Insurmountable
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=414045521&perks=839105230,3230963543,3523296417,2048641572
+
+// Liturgy
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=2599338624&perks=3809316345,2822142346,1955165503,2978966579
+
+// Vantage Point
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=3830941962&perks=839105230,106909392,3619207468,3966416502
+
+// Sovereignty
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=3818198556&perks=839105230,3230963543,3038247973,1134488199
 
 ////// Episode: Echoes //////
 
