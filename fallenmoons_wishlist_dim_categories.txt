@@ -1406,6 +1406,10 @@ dimwishlist:item=294129361&perks=3250034553,1885400500,1428297954,1546637391
 
 ////// Festival of the Lost //////
 
+// Arcane Embrace
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,3708227201
+
 // BrayTech Werewolf (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=528834068&perks=1482024992,1561002382,1359896290,4082225868
