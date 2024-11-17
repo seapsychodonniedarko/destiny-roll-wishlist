@@ -68,6 +68,8 @@ dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919
 // Chroma Rush
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=2598420927&perks=839105230,106909392,1820235745,4104185692
+//notes: The classic tags:god-pve, fallenmoons
+dimwishlist:item=2598420927&perks=839105230,1087426260,1820235745,3425386926
 
 // Exuviae
 //notes: tags:god-pve, fallenmoons MW: Stability or Reload
