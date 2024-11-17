@@ -65,7 +65,7 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 dimwishlist:item=2599338625&perks=3798852852,2985827016,3108830275,3966416502
 dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919
 
-// Chroma Rush
+// Chroma Rush (Year 7)
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=2598420927&perks=839105230,106909392,1820235745,4104185692
 //notes: The classic tags:god-pve, fallenmoons
@@ -74,6 +74,9 @@ dimwishlist:item=2598420927&perks=839105230,1087426260,1820235745,3425386926
 // Exuviae
 //notes: tags:god-pve, fallenmoons MW: Stability or Reload
 dimwishlist:item=2823644677&perks=4090651448,3230963543,1955165503,124408337
+
+// Gridskipper (Year 7)
+dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,4104185692
 
 // Insurmountable
 //notes: tags:god-pve, fallenmoons
@@ -87,7 +90,7 @@ dimwishlist:item=2599338624&perks=3809316345,2822142346,1955165503,2978966579
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=3830941962&perks=839105230,106909392,3619207468,3966416502
 
-// Sojourner's Tale
+// Sojourner's Tale (Year 7)
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=2130875369&perks=839105230,106909392,3300816228,4293542123
 
