@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with Episode Revenant seasonal weapons. Last updated: 11/10/2024
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with Episode Revenant seasonal weapons. Last updated: 17/11/2024
 
 /////////////////////////////////////////////
 // Exotics
