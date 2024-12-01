@@ -93,6 +93,7 @@ dimwishlist:item=3830941962&perks=839105230,106909392,3619207468,3966416502
 // Sojourner's Tale (Year 7)
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=2130875369&perks=839105230,106909392,3300816228,4293542123
+dimwishlist:item=2130875369&perks=839105230,791862061,3300816228,4293542123
 
 // Sovereignty
 //notes: tags:god-pve, fallenmoons
