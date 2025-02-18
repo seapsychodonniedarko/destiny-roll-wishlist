@@ -1299,6 +1299,7 @@ dimwishlist:item=471518543&perks=1392496348,1087426260,1820235745,3824105627
 // Unloved
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=2485881870&perks=839105230,3230963543,831391274,4104185692
+dimwishlist:item=2485881870&perks=839105230,1087426260,831391274,960997401
 
 // Unsworn
 //notes: tags:god-pve, fallenmoons
