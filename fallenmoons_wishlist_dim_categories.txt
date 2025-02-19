@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with Episode: Heresy  weapons & Sundered Doctrine. Last updated: 17/02/2025
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with Episode: Heresy  weapons & Sundered Doctrine. Last updated: 19/02/2025
 
 /****************************************************/
 //
@@ -963,10 +963,20 @@ dimwishlist:item=1911060537&perks=839105230,2680121939,3400784728,1771339417
 //
 /****************************************************/
 
-// Archon's Thunder (god-pve)
+// Warlord's Supercharged (Season 26, Year 7)
 //notes: tags:god-pve, fallenmoons
-dimwishlist:item=1967303408&perks=1392496348,3142289711,2450788523,3425386926
-dimwishlist:item=1967303408&perks=1392496348,1087426260,2450788523,3425386926
+dimwishlist:item=1968711238&perks=839105230,732557052,3418782618,3966416502
+dimwishlist:item=1968711238&perks=839105230,732557052,3418782618,4198902903
+
+// Peacebond (Season 26, Year 7)
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=3437370193&perks=839105230,3230963543,124408337,1955165503
+dimwishlist:item=3437370193&perks=839105230,3142289711,1820235745,4104185692
+
+// Archon's Thunder (Season 25, Year 7)
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=2896109856&perks=839105230,3230963543,968510818,3418782618
+dimwishlist:item=2896109856&perks=839105230,3230963543,1955165503,124408337
 
 // Finite Impactor (pvp)
 //notes: tags:pvp, fallenmoons
