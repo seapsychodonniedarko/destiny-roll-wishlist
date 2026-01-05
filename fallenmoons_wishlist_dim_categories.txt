@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with Rite of the Nine weapons. Last updated: 07/05/25
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with Dawning 2025 weapons. Last updated: 05/01/26
 
 /****************************************************/
 //
@@ -1715,6 +1715,11 @@ dimwishlist:item=507038823&perks=1482024992,1087426260,1359896290,4049631843
 /////////////////////////////////////////////
 // The Dawning
 /////////////////////////////////////////////
+
+// Permafrost
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,2922950962,2120661319
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,113508675,2120661319
 
 // Avalanche (god-pve)
 //notes: tags:god-pve
