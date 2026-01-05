@@ -67,6 +67,11 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 // Renegades
 /////////////////////////////////////////////
 
+// Compact Defender
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,1909124648,1309453587
+dimwishlist:item=2819552809&perks=1840239774,1806718225,2048641572,776531651,1309453587
+
 // Modified B-7 Pistol
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=1872906663&perks=839105230,1092016998,1955165503,2922950962,3713579091
