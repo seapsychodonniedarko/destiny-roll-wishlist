@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added some Renegades weapons. Last updated: 07/01/26
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added missing Renegades weapons & Equilibrium dungeon gear. Last updated: 07/01/26
 
 /****************************************************/
 //
@@ -67,6 +67,16 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 // Renegades
 /////////////////////////////////////////////
 
+// All or Nothing
+//notes: tags:god-pve, fallenmoons MW:Vent Speed
+dimwishlist:item=2023002233&perks=839105230,1080094173,3824105627,960997401,3713579091
+dimwishlist:item=2023002233&perks=839105230,1080094173,3824105627,960997401,2671305723
+//notes: tags:pve, fallenmoons MW:Vent Speed
+dimwishlist:item=3984776322&perks=839105230,1080094173,3824105627,960997401,4280607931
+dimwishlist:item=3984776322&perks=839105230,1080094173,3824105627,960997401,1309453587
+dimwishlist:item=3984776322&perks=839105230,1080094173,3824105627,831391274,4280607931
+dimwishlist:item=3984776322&perks=839105230,1080094173,3824105627,831391274,1309453587
+
 // Compact Defender
 //notes: tags:god-pve, fallenmoons MW:Cooling Efficency
 dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648,1309453587
@@ -81,6 +91,7 @@ dimwishlist:item=2819552809&perks=839105230,1806718225,2048641572,776531651,3713
 //notes: tags:god-pve, AoE, fallenmoons MW:Cooling Efficency
 dimwishlist:item=1872906663&perks=839105230,1080094173,3824105627,124408337,3713579091
 dimwishlist:item=1872906663&perks=839105230,1080094173,3824105627,124408337,1309453587
+dimwishlist:item=3146657388&perks=839105230,1080094173,3824105627,124408337,1309453587
 //notes: tags:pve, fallenmoons MW:Vent Speed
 dimwishlist:item=1872906663&perks=839105230,1080094173,1955165503,2922950962,1309453587
 dimwishlist:item=1872906663&perks=839105230,1080094173,1955165503,2922950962,1309453587
@@ -95,10 +106,19 @@ dimwishlist:item=1419158093&perks=839105230,769709866,243981275,1909124648,37135
 dimwishlist:item=1419158093&perks=839105230,769709866,3523296417,2922950962,1309453587
 dimwishlist:item=1419158093&perks=839105230,769709866,3523296417,2922950962,3713579091
 
+// Refurbished A499
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=3661051060&perks=839105230,3230963543,2289534249,3300816228,1309453587
+dimwishlist:item=3661051060&perks=839105230,3230963543,2289534249,3300816228,3713579091
+dimwishlist:item=593808239&perks=839105230,3230963543,2289534249,3300816228,1309453587
+dimwishlist:item=593808239&perks=839105230,3230963543,2289534249,3300816228,2697390518
+
 // Uncivil Discourse
 //notes: tags:god-pve, fallenmoons MW:Cooling Efficency
 dimwishlist:item=3146657389&perks=839105230,769709866,1421772400,4104185692,1309453587
 dimwishlist:item=3146657389&perks=839105230,769709866,1421772400,4104185692,3713579091
+dimwishlist:item=2462965802&perks=839105230,769709866,1421772400,4104185692,1309453587
+dimwishlist:item=2462965802&perks=839105230,769709866,1421772400,4104185692,3713579091
 
 /////////////////////////////////////////////
 // Episode: Heresy
@@ -740,6 +760,12 @@ dimwishlist:item=4277547616&perks=839105230,1087426260,1820235745,2848615171
 /////////////////////////////////////////////
 // Vanguard
 /////////////////////////////////////////////
+
+// Psi Aeterna IV
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=135971347&perks=3525010810,2822142346,1115162408,3218042543
+dimwishlist:item=135971347&perks=3525010810,2822142346,1115162408,3218042543
+
 
 // Nightshade (god-pve)
 //notes: tags:god-pve, fallenmoons
@@ -1449,6 +1475,44 @@ dimwishlist:item=471518543&perks=1392496348,1087426260,1820235745,3824105627
 // Equilibrium
 /////////////////////////////////////////////
 
+// Bitter End
+//notes: tags:god-pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=954563454&perks=839105230,1806718225,1115162408,3218042543
+dimwishlist:item=954563454&perks=839105230,1806718225,243981275,3966416502
+dimwishlist:item=954563454&perks=1840239774,1806718225,1115162408,3218042543
+dimwishlist:item=954563454&perks=1840239774,1806718225,243981275,3966416502
+
+// Conspiricy Honed
+//notes: tags:god-pve, fallenmoons MW:Handling
+dimwishlist:item=4062069077&perks=839105230,1080094173,1546637391,3078487919
+//notes: tags:pve, fallenmoons MW:Handling
+dimwishlist:item=4062069077&perks=839105230,1080094173,124408337,3824105627
+
+// High Tyrant
+//notes: tags:god-pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=2873508409&perks=839105230,1806718225,2048641572,1464081238
+//notes: tags:pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=2873508409&perks=839105230,1806718225,2048641572,657025441
+dimwishlist:item=2873508409&perks=839105230,1806718225,2048641572,4104185692
+
+// Sullen Claw
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=1085743380&perks=938542991,269888150,2077819806,3913600130
+//notes: tags:pve, fallenmoons
+dimwishlist:item=1085743380&perks=938542991,269888150,1546637391,3078487919
+dimwishlist:item=1085743380&perks=938542991,269888150,2077819806,2048641572
+
+// Voltaic Supercharged
+//notes: tags:god-pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=71057630&perks=1840239774,1092016998,3966416502,657025441
+//notes: tags:pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=71057630&perks=1840239774,1092016998,1115162408,3218042543
+dimwishlist:item=71057630&perks=1840239774,1092016998,3966416502,2173046394
+
+// Zealous Ideal
+//notes: tags:god-pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=1863583117&perks=1840239774,1092016998,243981275,2890807135
+dimwishlist:item=1863583117&perks=1840239774,1092016998,3017780555,4293542123
 
 
 /////////////////////////////////////////////
@@ -1745,21 +1809,19 @@ dimwishlist:item=507038823&perks=1482024992,1087426260,1359896290,4049631843
 // Mistral Lift (Rev. 1)
 //notes: tags:god-pve, fallenmoons
 dimwishlist:item=766122634&perks=1840239774,1687452232,3987942396,3078487919,3988215619
-dimwishlist:item=766122634&perks=1840239774,1687452232,1523832109,3078487919,3988215619
-dimwishlist:item=766122634&perks=1840239774,1687452232,3987942396,555281244,3988215619
 dimwishlist:item=766122634&perks=1840239774,1687452232,3987942396,555281244,3988215619
 
 // Fimbulwinter Stitch
 //notes: tags:god-pve, fallenmoons
-dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,3966416502,4264904777
-dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,3218042543,4264904777
+dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,3966416502
+dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,3218042543
 //notes: tags:pve, fallenmoons
-dimwishlist:item=2645567209&perks=1840239774,1087426260,1119449540,2173046394,4264904777
+dimwishlist:item=2645567209&perks=1840239774,1087426260,1119449540,2173046394
 
 // Permafrost
 //notes: tags:god-pve, fallenmoons
-dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,2922950962,2120661319
-dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,113508675,2120661319
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,2922950962
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,113508675
 
 // Avalanche (god-pve)
 //notes: tags:god-pve
