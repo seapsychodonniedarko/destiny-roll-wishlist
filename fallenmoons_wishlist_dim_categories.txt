@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Updated with Dawning 2025 weapons. Last updated: 05/01/26
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added some Renegades weapons. Last updated: 07/01/26
 
 /****************************************************/
 //
@@ -68,22 +68,37 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 /////////////////////////////////////////////
 
 // Compact Defender
-//notes: tags:god-pve, fallenmoons
-dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,1909124648,1309453587
-dimwishlist:item=2819552809&perks=1840239774,1806718225,2048641572,776531651,1309453587
+//notes: tags:god-pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648,1309453587
+dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648,3713579091
+//notes: tags:god-pve MW:Cooling Efficency
+dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648,1309453587
+dimwishlist:item=2819552809&perks=839105230,1806718225,2048641572,776531651,1309453587
+dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648,3713579091
+dimwishlist:item=2819552809&perks=839105230,1806718225,2048641572,776531651,3713579091
 
 // Modified B-7 Pistol
-//notes: tags:god-pve, fallenmoons
-dimwishlist:item=1872906663&perks=839105230,1092016998,1955165503,2922950962,3713579091
-dimwishlist:item=1872906663&perks=839105230,1092016998,1955165503,2922950962,2671305723
-dimwishlist:item=1872906663&perks=839105230,1092016998,3824105627,124408337,3713579091
-dimwishlist:item=1872906663&perks=839105230,1092016998,3824105627,124408337,2671305723
-dimwishlist:item=1872906663&perks=839105230,1092016998,1955165503,2922950962,3713579091
-dimwishlist:item=1872906663&perks=839105230,1092016998,1955165503,2922950962,2671305723
-//notes: tags:pve, fallenmoons
-dimwishlist:item=1872906663&perks=839105230,1092016998,247725512,1909124648,3713579091
-dimwishlist:item=1872906663&perks=839105230,1092016998,3824105627,1909124648,3713579091
-dimwishlist:item=1872906663&perks=839105230,1092016998,3523296417,1909124648,3713579091
+//notes: tags:god-pve, AoE, fallenmoons MW:Cooling Efficency
+dimwishlist:item=1872906663&perks=839105230,1080094173,3824105627,124408337,3713579091
+dimwishlist:item=1872906663&perks=839105230,1080094173,3824105627,124408337,1309453587
+//notes: tags:pve, fallenmoons MW:Vent Speed
+dimwishlist:item=1872906663&perks=839105230,1080094173,1955165503,2922950962,1309453587
+dimwishlist:item=1872906663&perks=839105230,1080094173,1955165503,2922950962,1309453587
+dimwishlist:item=1872906663&perks=839105230,1080094173,1955165503,124408337,1309453587
+dimwishlist:item=1872906663&perks=839105230,1080094173,1955165503,124408337,3713579091
+
+// M-17 "Fast Talker"
+//notes: tags:god-pve, fallenmoons MW:Vent Speed
+dimwishlist:item=1419158093&perks=839105230,769709866,243981275,1909124648,1309453587
+dimwishlist:item=1419158093&perks=839105230,769709866,243981275,1909124648,3713579091
+//notes: tags:pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=1419158093&perks=839105230,769709866,3523296417,2922950962,1309453587
+dimwishlist:item=1419158093&perks=839105230,769709866,3523296417,2922950962,3713579091
+
+// Uncivil Discourse
+//notes: tags:god-pve, fallenmoons MW:Cooling Efficency
+dimwishlist:item=3146657389&perks=839105230,769709866,1421772400,4104185692,1309453587
+dimwishlist:item=3146657389&perks=839105230,769709866,1421772400,4104185692,3713579091
 
 /////////////////////////////////////////////
 // Episode: Heresy
@@ -1429,6 +1444,12 @@ dimwishlist:item=471518543&perks=1392496348,1087426260,1820235745,3824105627
 // Dungeons
 //
 /****************************************************/
+
+/////////////////////////////////////////////
+// Equilibrium
+/////////////////////////////////////////////
+
+
 
 /////////////////////////////////////////////
 // Sundered Doctrine
