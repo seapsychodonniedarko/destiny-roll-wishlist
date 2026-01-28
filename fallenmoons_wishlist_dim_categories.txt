@@ -67,6 +67,11 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 // Renegades
 /////////////////////////////////////////////
 
+// King Orfeo
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=3481382332&perks=4067834857,3827198035,951095735,657025441,1209885908
+dimwishlist:item=3481382332&perks=4067834857,3827198035,3365897133,657025441,1209885908
+
 // All or Nothing
 //notes: tags:god-pve, fallenmoons MW:Vent Speed
 dimwishlist:item=2023002233&perks=839105230,1080094173,3824105627,960997401,3713579091
