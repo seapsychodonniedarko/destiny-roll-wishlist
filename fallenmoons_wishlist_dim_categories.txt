@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added missing Renegades weapons & Equilibrium dungeon gear. Last updated: 07/01/26
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added Guardian Games 2026 weapon rolls. Last updated: 25/03/2026
 
 /****************************************************/
 //
