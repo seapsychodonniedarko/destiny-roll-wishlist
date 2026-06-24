@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added new Salvager's Salvo. Last updated: 24/06/2026
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added Seventh Seraph SI-2. Last updated: 24/06/2026
 
 /****************************************************/
 //
@@ -206,6 +206,13 @@ dimwishlist:item=2308010345&perks=1300023272,791862061,3161816588,2396489472
 dimwishlist:item=2308010345&perks=1300023272,791862061,3161816588,2396489472
 dimwishlist:item=2308010345&perks=1300023272,791862061,3017780555,2396489472
 dimwishlist:item=2308010345&perks=1300023272,791862061,3017780555,4293542123
+
+// Seventh Seraph SI-2
+//notes: tags:god-pve, fallenmoons
+dimwishlist:item=453798564&perks=839105230,1140096971,2048641572,657025441
+dimwishlist:item=453798564&perks=839105230,1140096971,2048641572,1464081238
+dimwishlist:item=453798564&perks=839105230,1140096971,3523296417,657025441
+
 
 /////////////////////////////////////////////
 // Patrol: Europa
