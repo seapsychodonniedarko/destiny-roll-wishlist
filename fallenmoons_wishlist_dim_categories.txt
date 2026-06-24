@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added Festival Flight weapon rolls. Last updated: 24/06/2026
+description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. Fun perks will be prioritized for PvE. Rolls are grouped by source. Added new Salvager's Salvo. Last updated: 24/06/2026
 
 /****************************************************/
 //
@@ -132,6 +132,13 @@ dimwishlist:item=1704597062&perks=1196733167,3827198035,1955165503,2922950962
 // D.F.A.
 //notes: tags:god-pve, fallenmoons (MW: Range or Reload)
 dimwishlist:item=2920548486&perks=1840239774,106909392,3038247973,243981275,3713579091
+
+// Salvager's Salvo
+//notes: tags:god-pve, fallenmoons (MW: Reload)
+dimwishlist:item=1692109318&perks=3798852852,2822142346,2396489472,2173046394
+dimwishlist:item=2461640837&perks=3798852852,2822142346,2396489472,2173046394,2697390518
+dimwishlist:item=1692109318&perks=3798852852,2822142346,2396489472,654512643
+dimwishlist:item=2461640837&perks=3798852852,2822142346,2396489472,654512643,2697390518
 
 
 /////////////////////////////////////////////
