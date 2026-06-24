@@ -70,22 +70,22 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 /////////////////////////////////////////////
 
 // Bellowing Giant
-//notes: tags:god-pve, fallenmoons MW: Velocity or Reload
+//notes: tags:god-pve, fallenmoons (MW: Velocity or Reload)
 dimwishlist:item=412265080&perks=3525010810,3796465595,3977735242,3300816228
 dimwishlist:item=1889005379&perks=3525010810,3796465595,3977735242,3300816228
 
 // Blast Furnace
-//notes: tags:god-pve, fallenmoons
+//notes: tags:god-pve, fallenmoons (MW: Handling or Reload)
 dimwishlist:item=52683113&perks=1840239774,106909392,3891536761,3640170453
 dimwishlist:item=2631356658&perks=1840239774,106909392,3891536761,3640170453
 
 // Kindled Orchid
-//notes: tags:god-pve, fallenmoons MW: Range
+//notes: tags:god-pve, fallenmoons (MW: Range)
 dimwishlist:item=3961462214&perks=3250034553,3230963543,3700496672,2048641572
 dimwishlist:item=334964261&perks=3250034553,3230963543,3700496672,2048641572
 
 // No Feelings
-//notes: tags:god-pve, fallenmoons MW: Reload or Stability
+//notes: tags:god-pve, fallenmoons (MW: Reload or Stability)
 dimwishlist:item=1271275406&perks=1840239774,3230963543,2173046394,654512643
 dimwishlist:item=2979764077&perks=1840239774,3230963543,2173046394,654512643
 
@@ -95,24 +95,34 @@ dimwishlist:item=2490460292&perks=3666208348,269888150,2590710093,2048641572
 dimwishlist:item=2158575991&perks=3666208348,269888150,2590710093,2048641572
 
 // Tatara Gaze
-//notes: tags:god-pve, fallenmoons MW: Stability or Reload
+//notes: tags:god-pve, fallenmoons (MW: Stability or Reload)
 dimwishlist:item=2531614757&perks=839105230,3230963543,706527188,2551157718
 dimwishlist:item=3595694326&perks=839105230,3230963543,706527188,2551157718
 
 // Tempered Dynamo
-//notes: tags:god-pve, fallenmoons MW: Reload or Handling
+//notes: tags:god-pve, fallenmoons (MW: Reload or Handling)
 dimwishlist:item=2274706510&perks=1840239774,3868766766,1511100135,3966416502
 dimwishlist:item=2925315757&perks=1840239774,3868766766,1511100135,3966416502
 
 // The Ringing Nightfalls
-//notes: tags:god-pve, fallenmoons MW: Stability or Handling
+//notes: tags:god-pve, fallenmoons (MW: Stability or Handling)
 dimwishlist:item=3326135421&perks=1840239774,3230963543,4293542123,2890807135
 dimwishlist:item=4206550094&perks=1840239774,3230963543,4293542123,2890807135
-//notes: tags:pve, DPS, fallenmoons MW: Stability or Handling
+//notes: tags:pve, DPS, fallenmoons (MW: Stability or Handling)
 dimwishlist:item=3326135421&perks=1840239774,2420895100,3418782618,2890807135
 dimwishlist:item=4206550094&perks=1840239774,2420895100,3418782618,2890807135
 dimwishlist:item=3326135421&perks=1840239774,2420895100,3418782618,365154968
 dimwishlist:item=4206550094&perks=1840239774,2420895100,3418782618,365154968
+
+// The Spiteful Fang
+//notes: tags:god-pve, fallenmoons (MW: Accuracy)
+dimwishlist:item=1094998581&perks=1196733167,3827198035,201365942,3824105627
+dimwishlist:item=1704597062&perks=1196733167,3827198035,201365942,3824105627
+dimwishlist:item=1094998581&perks=1196733167,3827198035,124408337,3824105627
+dimwishlist:item=1704597062&perks=1196733167,3827198035,124408337,3824105627
+//notes: tags:pve, fallenmoons (MW: Accuracy)
+dimwishlist:item=1094998581&perks=1196733167,3827198035,1955165503,2922950962
+dimwishlist:item=1704597062&perks=1196733167,3827198035,1955165503,2922950962
 
 
 /////////////////////////////////////////////
@@ -120,7 +130,7 @@ dimwishlist:item=4206550094&perks=1840239774,2420895100,3418782618,365154968
 /////////////////////////////////////////////
 
 // D.F.A.
-//notes: tags:god-pve, fallenmoons MW: Range or Reload
+//notes: tags:god-pve, fallenmoons (MW: Range or Reload)
 dimwishlist:item=2920548486&perks=1840239774,106909392,3038247973,243981275,3713579091
 
 
@@ -217,41 +227,41 @@ dimwishlist:item=3481382332&perks=4067834857,3827198035,951095735,657025441,1209
 dimwishlist:item=3481382332&perks=4067834857,3827198035,3365897133,657025441,1209885908
 
 // All or Nothing
-//notes: tags:god-pve, fallenmoons MW:Vent Speed
+//notes: tags:god-pve, fallenmoons (MW:Vent Speed)
 dimwishlist:item=2023002233&perks=839105230,1080094173,3824105627,960997401,3713579091
 dimwishlist:item=2023002233&perks=839105230,1080094173,3824105627,960997401,2671305723
-//notes: tags:pve, fallenmoons MW:Vent Speed
+//notes: tags:pve, fallenmoons (MW:Vent Speed)
 dimwishlist:item=3984776322&perks=839105230,1080094173,3824105627,960997401
 dimwishlist:item=3984776322&perks=839105230,1080094173,3824105627,831391274
 
 // Compact Defender
-//notes: tags:god-pve, fallenmoons MW:Cooling Efficency
+//notes: tags:god-pve, fallenmoons (MW:Cooling Efficency)
 dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648,3713579091
-//notes: tags:god-pve MW:Cooling Efficency
+//notes: tags:god-pve (MW:Cooling Efficency)
 dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648
 dimwishlist:item=2819552809&perks=839105230,1806718225,2048641572,776531651
 dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648
 dimwishlist:item=2819552809&perks=839105230,1806718225,2048641572,776531651
 
 // Modified B-7 Pistol
-//notes: tags:god-pve, AoE, fallenmoons MW:Cooling Efficency
+//notes: tags:god-pve, AoE, fallenmoons (MW:Cooling Efficency)
 dimwishlist:item=1872906663&perks=839105230,1080094173,3824105627,124408337,3713579091
 dimwishlist:item=1872906663&perks=839105230,1080094173,3824105627,124408337
 dimwishlist:item=3146657388&perks=839105230,1080094173,3824105627,124408337
-//notes: tags:pve, fallenmoons MW:Vent Speed
+//notes: tags:pve, fallenmoons (MW:Vent Speed)
 dimwishlist:item=1872906663&perks=839105230,1080094173,1955165503,2922950962
 dimwishlist:item=3146657388&perks=839105230,1080094173,1955165503,2922950962
 dimwishlist:item=1872906663&perks=839105230,1080094173,1955165503,124408337
 dimwishlist:item=3146657388&perks=839105230,1080094173,1955165503,124408337
 
 // M-17 "Fast Talker"
-//notes: tags:god-pve, fallenmoons MW:Vent Speed
+//notes: tags:god-pve, fallenmoons (MW:Vent Speed)
 dimwishlist:item=1419158093&perks=839105230,769709866,243981275,1909124648
 dimwishlist:item=2770035786&perks=839105230,769709866,243981275,1909124648
-//notes:pve, fallenmoons MW:Cooling Efficency
+//notes:pve, fallenmoons (MW:Cooling Efficency)
 dimwishlist:item=1419158093&perks=839105230,769709866,3523296417,2922950962
 dimwishlist:item=2770035786&perks=839105230,769709866,3523296417,2922950962
-//notes:pve MW:Cooling Efficency or Handling
+//notes:pve (MW:Cooling Efficency or Handling)
 dimwishlist:item=1419158093&perks=1840239774,1946186791,243981275,3081867624
 
 // Refurbished A499
