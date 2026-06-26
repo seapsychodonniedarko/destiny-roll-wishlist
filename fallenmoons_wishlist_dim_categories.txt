@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Added missing Cosmodrome weapons & DIM wildcard test. Last updated: 26/06/2026
+description:Added updated Vesper's Host weapons & new formatting test. Last updated: 26/06/2026
 
 
 
@@ -1777,20 +1777,28 @@ dimwishlist:item=2226158470&perks=839105230,3230963543,3824105627,2173046394
 /////////////////////////////////////////////
 
 // VS Chill Inhibitor
-//notes: tags:god-pve 
-dimwishlist:item=1762785662&perks=1441682018,1380253176,3523296417,2396489472
+//notes:FAV
+dimwishlist:item=2452936817&perks=1441682018,1380253176,2978966579,3194351027
+//notes:Nice to Have #DPS
+dimwishlist:item=2452936817&perks=1441682018,3301904089,3987942396,3078487919
 
 // VS Gravitic Arrest
-//notes: tags:god-pve 
-dimwishlist:item=93061497&perks=839105230,1687452232,3523296417,2396489472
+//notes:FAV
+dimwishlist:item=3102162710&perks=839105230,1687452232,3523296417,2396489472
+dimwishlist:item=3102162710&perks=839105230,1687452232,3523296417,2048641572
 
 // VS Pyroelectric Propellant
-//notes: tags:god-pve 
-dimwishlist:item=4232480042&perks=839105230,3230963543,684456054,3966416502
+//notes:FAV
+dimwishlist:item=2460368549&perks=839105230,3230963543,243981275,3966416502
+//notes:Nice to Have
+dimwishlist:item=2460368549&perks=839105230,3230963543,3418782618,3966416502
 
-// VS Velocity Baton (god-pve)
-//notes: tags:god-pve 
-dimwishlist:item=1762785663&perks=981914802,2822142346,563069569,2048641572
+// VS Velocity Baton
+//notes:FAV
+dimwishlist:item=2452936816&perks=3525010810,2822142346,1523832109,2048641572
+//notes:Nice to Have
+dimwishlist:item=2452936816&perks=3525010810,2822142346,3523296417,2396489472
+dimwishlist:item=2452936816&perks=3525010810,2822142346,3987942396,3078487919
 
 /////////////////////////////////////////////
 // Warlord's Ruin
