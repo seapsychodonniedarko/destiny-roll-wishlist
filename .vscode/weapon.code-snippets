@@ -20,7 +20,7 @@
     "prefix": "weapon",
     "body": [
       "// ${1:title}",
-      "//notes: tags:${2|god-pve,pve,god-pvp,pvp|}, fallenmoons",
+      "//notes: tags:${2|god-pve,pve,god-pvp,pvp|} ",
       "$0"
     ]
   },
