@@ -1,5 +1,15 @@
 title:fallenmoons_wishlist
-description:Added updated Europa weapons. Last updated: 26/06/2026
+description:Added missing Cosmodrome weapons & DIM wildcard test. Last updated: 26/06/2026
+
+
+
+/****************************************************/
+//
+// Wildcard
+//
+/****************************************************/
+
+dimwishlist:item=-69420&perks=839105230,3230963543,243981275,3966416502
 
 /****************************************************/
 //
@@ -135,8 +145,7 @@ dimwishlist:item=2920548486&perks=1840239774,106909392,3038247973,243981275,3713
 
 // Salvager's Salvo
 //notes: tags:god-pve  (MW: Reload)
-dimwishlist:item=1692109318&perks=3798852852,2822142346,2396489472,2173046394,178753455
-dimwishlist:item=1692109318&perks=3798852852,2822142346,2396489472,2173046394,758092021
+dimwishlist:item=1692109318&perks=3798852852,2822142346,2396489472,2173046394
 dimwishlist:item=2461640837&perks=3798852852,2822142346,2396489472,2173046394,2697390518
 dimwishlist:item=1692109318&perks=3798852852,2822142346,2396489472,654512643
 dimwishlist:item=2461640837&perks=3798852852,2822142346,2396489472,654512643,2697390518
@@ -191,29 +200,44 @@ dimwishlist:item=1225851434&perks=839105230,1687452232,831391274,1427256713
 /////////////////////////////////////////////
 
 // Seventh Seraph Carbine
-//notes: tags:god-pve 
+//notes:GOD-PVE
 dimwishlist:item=2560370239&perks=839105230,1140096971,1523832109,3891536761
 dimwishlist:item=2560370239&perks=839105230,1140096971,3828510309,1202584452
 
 // Seventh Seraph Officer Revolver
-//notes: tags:god-pve 
+//notes:GOD-PVE
 dimwishlist:item=3490736392&perks=839105230,1140096971,1523832109,3201496230
 dimwishlist:item=3490736392&perks=839105230,1140096971,1523832109,3201496230
 dimwishlist:item=3490736392&perks=839105230,1140096971,2289534249,3038247973
 dimwishlist:item=3490736392&perks=839105230,1140096971,2289534249,4104185692
 
 // Seventh Seraph CQC-12
-//notes: tags:god-pve 
+//notes:GOD-PVE
 dimwishlist:item=2308010345&perks=1300023272,791862061,3161816588,2396489472
 dimwishlist:item=2308010345&perks=1300023272,791862061,3161816588,2396489472
 dimwishlist:item=2308010345&perks=1300023272,791862061,3017780555,2396489472
 dimwishlist:item=2308010345&perks=1300023272,791862061,3017780555,4293542123
 
+// Seventh Seraph SAW
+//notes:GOD-PVE
+dimwishlist:item=2584201248&perks=839105230,1140096971,1523832109,657025441
+//notes:PVE
+dimwishlist:item=2584201248&perks=839105230,3230963543,1523832109,557221067
+dimwishlist:item=2584201248&perks=839105230,3230963543,1523832109,3966416502
+dimwishlist:item=2584201248&perks=839105230,3230963543,243981275,3966416502
+dimwishlist:item=2584201248&perks=839105230,2420895100,1511100135,3966416502
+dimwishlist:item=2584201248&perks=839105230,2420895100,1115162408,3218042543
+
 // Seventh Seraph SI-2
-//notes: tags:god-pve 
+//notes:GOD-PVE
 dimwishlist:item=453798564&perks=839105230,1140096971,2048641572,657025441
 dimwishlist:item=453798564&perks=839105230,1140096971,2048641572,1464081238
 dimwishlist:item=453798564&perks=839105230,1140096971,3523296417,657025441
+
+// Seventh Seraph VY-7
+//notes:GOD-PVE
+dimwishlist:item=1719169808&perks=1840239774,3230963543,1511100135,3966416502
+dimwishlist:item=1719169808&perks=1840239774,3230963543,2779035018,654512643
 
 
 /////////////////////////////////////////////
@@ -253,6 +277,16 @@ dimwishlist:item=978122008&perks=3525010810,3796465595,1511100135,3927722942
 //notes: tags:god-pve (MW: Stability or Range)
 dimwishlist:item=642545454&perks=839105230,2420895100,4293542123,2890807135
 
+
+/////////////////////////////////////////////
+// Sparrow Racing Leauge
+/////////////////////////////////////////////
+
+// Snipehunt Mk.  47
+//notes: tags:god-pve (MW: Range)
+dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,243981275
+dimwishlist:item=193009988&perks=839105230,3230963543,1511100135,243981275
+dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,3640170453
 
 
 /****************************************************/
