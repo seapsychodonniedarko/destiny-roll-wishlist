@@ -6,60 +6,60 @@ description:Mouse + Keyboard personal God rolls. Mostly PvE, but a little PvP. F
 /////////////////////////////////////////////
 
 // Nox Perennial V (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=2767393525&perks=839105230,2680121939,1556840489,2594592626,1050127423
 
 // Psi Hermetic V (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=358788212&perks=839105230,3177308360,3828510309,124408337
 dimwishlist:item=358788212&perks=839105230,3177308360,3828510309,4104185692
 
 ////// Seasonal //////
 
 // Semiotician (god-pve)
-//notes: Hard hitting direct hits tags:god-pve,fallenmoons
+//notes: Hard hitting direct hitsGodroll-PvE,fallenmoons
 dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,3194351027
 
 ////// Ritual //////
 
 // Nightshade (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=1974641289&perks=839105230,106909392,3619207468,831391274,2509860981
 
 // Qua Xaphan V (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=1975125963&perks=839105230,1087426260,2284787283,2048641572
 dimwishlist:item=1975125963&perks=839105230,1431678320,2284787283,2048641572
 
 // Unending Tempest (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=2510526114&perks=4090651448,3142289711,3523296417,11612903,2509860981
 
 ////// Trials of Osiris //////
 
 // Igneous Hammer (god-pve,god-pvp)
-//notes: tags:god-pve,god-pvp,fallenmoons
+//notes:Godroll-PvE,god-pvp,fallenmoons
 dimwishlist:item=1973107014&perks=839105230,1885400500,3017780555,4293542123
 dimwishlist:item=1973107014&perks=839105230,1885400500,3017780555,555281244
 
 ////// Nightfall //////
 
 // Pre Astyanax IV (god-pve)
-//notes: Precision cycle enhancement  tags:god-pve,fallenmoons
+//notes: Precision cycle enhancement Godroll-PvE,fallenmoons
 dimwishlist:item=192784503&perks=1784898267,3429800428,201365942,555281244,1050127423
 dimwishlist:item=192784503&perks=1784898267,3827198035,201365942,555281244,1050127423
 dimwishlist:item=192784503&perks=852209214,3429800428,201365942,555281244,1050127423
 dimwishlist:item=192784503&perks=852209214,3827198035,201365942,555281244,1050127423
 
 // Warden's Law (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=1821529912&perks=839105230,3177308360,3828510309,1546637391
 dimwishlist:item=1821529912&perks=839105230,3177308360,3828510309,4104185692
 
 ////// Iron Banner //////
 
 // Point of the Stag (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=888872889&perks=2801223209,3827198035,201365942,2848615171,1050127423
 dimwishlist:item=888872889&perks=2801223209,16392701,201365942,2848615171,1050127423
 dimwishlist:item=888872889&perks=1784898267,3827198035,201365942,2848615171,1050127423
@@ -78,17 +78,17 @@ dimwishlist:item=888872889&perks=1784898267,16392701,201365942,2848615171,105012
 ////// Seasonal //////
 
 // Raconteur (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=45643573&perks=201365942,124408337
 
 // Regnant (god-pve)
-// tags:god-pve
+//Godroll-PvE
 dimwishlist:item=268260372&perks=1441682018,1380253176,776531651,2048641572
 
 ////// Raid - Root of Nightmares //////
 
 // Rufus's Fury (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=484515708&perks=3250034553,3230963543,1523832109,3215448563,3186078099
 dimwishlist:item=484515708&perks=3250034553,3230963543,1523832109,831391274,3186078099
 
@@ -99,11 +99,11 @@ dimwishlist:item=484515708&perks=3250034553,3230963543,1523832109,831391274,3186
 ////// Seasonal //////
 
 // Fire and Forget (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=2272041093&perks=839105230,2680121939,124408337,2978966579
 
 // Retrofit Escapade (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=3103325054&perks=839105230,3142289711,1354429876,365154968
 dimwishlist:item=3103325054&perks=839105230,106909392,1354429876,365154968
 
@@ -114,7 +114,7 @@ dimwishlist:item=3103325054&perks=839105230,106909392,1354429876,365154968
 ////// Seasonal //////
 
 // Tarnished Mettle (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=2218569744&perks=3250034553,3142289711,3523296417,2848615171,3907865655
 dimwishlist:item=2218569744&perks=3250034553,3142289711,3523296417,3038247973,3907865655
 dimwishlist:item=2218569744&perks=3250034553,3142289711,3523296417,2173046394,3907865655
@@ -131,7 +131,7 @@ dimwishlist:item=2218569744&perks=1840239774,3142289711,1354429876,2173046394,39
 ////// Seasonal //////
 
 // The Militia's Birthright (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=40394833&perks=3809316345,3032599245,2010801679,3300816228
 dimwishlist:item=40394833&perks=3809316345,3032599245,2010801679,4104185692
 dimwishlist:item=40394833&perks=3809316345,2822142346,2010801679,3300816228
@@ -140,7 +140,7 @@ dimwishlist:item=40394833&perks=3809316345,2822142346,2010801679,4104185692
 ////// Raid - King's Fall //////
 
 // Smite of Merain - Fallenmoons_GodPvE (god-pve,god-pvp)
-// tags:god-pve,god-pvp,fallenmoons
+//Godroll-PvE,god-pvp,fallenmoons
 dimwishlist:item=2221264583&perks=839105230,3177308360,3523296417,1546637391
 dimwishlist:item=2221264583&perks=839105230,3177308360,3523296417,3824105627
 dimwishlist:item=2221264583&perks=839105230,3177308360,1583705720,1546637391
@@ -157,10 +157,10 @@ dimwishlist:item=2221264583&perks=839105230,3142289711,1583705720,3824105627
 ////// Seasonal //////
 
 // Under Your Skin (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=232928045&perks=852209214,3311977193,201365942,2848615171,1536798515
 dimwishlist:item=232928045&perks=852209214,3311977193,201365942,1048183818,1536798515
-// tags:god-pve,paul-tassi
+//Godroll-PvE,paul-tassi
 dimwishlist:item=232928045&perks=852209214,3311977193,3523746922,617966211,1536798515
 
 /////////////////////////////////////////////
@@ -168,7 +168,7 @@ dimwishlist:item=232928045&perks=852209214,3311977193,3523746922,617966211,15367
 /////////////////////////////////////////////
 
 // Retraced Path (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=548958835&perks=839105230,2680121939,1820235745,4293542123
 dimwishlist:item=548958835&perks=839105230,732557052,1820235745,4293542123
 dimwishlist:item=548958835&perks=1482024992,2680121939,1820235745,4293542123
@@ -194,14 +194,14 @@ dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,4082225868
 ////// Nightfall //////
 
 // THE SWARM (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=47772649&perks=839105230,3142289711,2450788523,2848615171
-// tags:god-pve,curated
+//Godroll-PvE,curated
 dimwishlist:item=47772649&perks=839105230,3177308360,2450788523,2387244414
 dimwishlist:item=47772649&perks=839105230,3142289711,2450788523,2387244414
 
 // The Title (god-pve)
-// tags:god-pve,fallenmoons
+//Godroll-PvE,fallenmoons
 dimwishlist:item=294129361&perks=3661387068,1885400500,1583705720,4049631843
 dimwishlist:item=294129361&perks=3661387068,1885400500,1583705720,1546637391
 dimwishlist:item=294129361&perks=3661387068,1885400500,1428297954,4049631843
@@ -219,7 +219,7 @@ dimwishlist:item=294129361&perks=3250034553,1885400500,1428297954,1546637391
 
 
 // Ignition Code (god-pve)
-//notes: Fallenmoons_custom tags:god-pve,fallenmoons
+//notes: Fallenmoons_customGodroll-PvE,fallenmoons
 dimwishlist:item=304659313&perks=1441682018,3032599245,2010801679,1546637391
 dimwishlist:item=304659313&perks=1441682018,1716000303,2010801679,3523296417
 
@@ -232,7 +232,7 @@ dimwishlist:item=310708513&perks=1467527085,1885400500,706527188,2458213969
 
 
 // Zephyr (god-pve)
-//notes: tags:god-pve,fallenmoons
+//notes:Godroll-PvE,fallenmoons
 dimwishlist:item=396910433&perks=2827049491,269888150,1774574192,3650930298
 dimwishlist:item=396910433&perks=2827049491,269888150,1774574192,2396489472
 
@@ -244,7 +244,7 @@ dimwishlist:item=431721920&perks=4090651448,3177308360,3038247973,3824105627,120
 
 
 // Zaouli's Bane - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=431721920&perks=3661387068,3177308360,691659142,3523296417,120721526
 dimwishlist:item=431721920&perks=3661387068,3177308360,691659142,4293542123,120721526
 dimwishlist:item=431721920&perks=4090651448,3177308360,691659142,3523296417,120721526
@@ -252,7 +252,7 @@ dimwishlist:item=431721920&perks=4090651448,3177308360,691659142,4293542123,1207
 
 
 // Corrective Measure - Tacticle + DSR + Firefly (god-pve)
-//notes: Fallenmoons_custom tags:god-pve
+//notes: Fallenmoons_customGodroll-PvE
 dimwishlist:item=471518543&perks=1392496348,106909392,1359896290,3824105627
 dimwishlist:item=471518543&perks=1392496348,106909392,2779035018,3824105627
 
@@ -263,7 +263,7 @@ dimwishlist:item=471518543&perks=1392496348,1087426260,1820235745,3824105627
 
 
 // Avalanche (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=495940989&perks=3250034553,1561002382,1820235745,4293542123
 dimwishlist:item=495940989&perks=3250034553,1561002382,1820235745,365154968
 dimwishlist:item=495940989&perks=3250034553,1561002382,2010801679,4293542123
@@ -271,7 +271,7 @@ dimwishlist:item=495940989&perks=3250034553,1561002382,2010801679,365154968
 
 
 // The Last Breath - Extended + Appended  Subsistence + Frenzy (god-pve)
-//notes: Fallenmoons_custom tags:god-pve
+//notes: Fallenmoons_customGodroll-PvE
 dimwishlist:item=507038823&perks=1467527085,1087426260,1820235745,4104185692
 dimwishlist:item=507038823&perks=1467527085,1087426260,1820235745,4049631843
 dimwishlist:item=507038823&perks=1467527085,1087426260,1359896290,4104185692
@@ -288,7 +288,7 @@ dimwishlist:item=528834068&perks=1482024992,1561002382,1359896290,4082225868
 
 
 // BrayTech Werewolf - Smallbore + Appended + Fourth Time + Vorpal (god-pve)
-//notes: Fallenmoons_custom tags:god-pve
+//notes: Fallenmoons_customGodroll-PvE
 dimwishlist:item=528834068&perks=1482024992,1087426260,1354429876,1546637391
 dimwishlist:item=528834068&perks=1482024992,1087426260,1354429876,4082225868
 
@@ -311,7 +311,7 @@ dimwishlist:item=575830664&perks=3250034553,3177308360,1428297954,1954620775
 
 
 // Forbearance - fallenmoons_PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=613334176&perks=3809316345,2822142346,3108830275,2396489472
 dimwishlist:item=613334176&perks=3809316345,2822142346,2010801679,2396489472
 dimwishlist:item=613334176&perks=3809316345,2822142346,1583705720,2396489472
@@ -321,7 +321,7 @@ dimwishlist:item=613334176&perks=1844523823,2822142346,1583705720,2396489472
 
 
 // Planck's Stride - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=820890091&perks=1392496348,1087426260,1570042021,691659142,3907865655
 dimwishlist:item=820890091&perks=1392496348,1087426260,1570042021,4049631843,3907865655
 dimwishlist:item=820890091&perks=839105230,1087426260,1570042021,691659142,3907865655
@@ -331,7 +331,7 @@ dimwishlist:item=820890091&perks=839105230,1087426260,1570042021,4049631843,3907
 // Peacebond - Peaceful Clearance (god-pve)
 //notes: Ad clear with stasis headshots and return ammo with subsistence.
 
-Fallenmoons tags:god-pve
+FallenmoonsGodroll-PvE
 dimwishlist:item=829330711&perks=1467527085,3142289711,1820235745,124408337
 dimwishlist:item=829330711&perks=1467527085,3142289711,2450788523,124408337
 dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,124408337
@@ -339,12 +339,12 @@ dimwishlist:item=829330711&perks=1467527085,106909392,2450788523,124408337
 
 
 // Borrowed Time - Armor-Piercing + Heating Up + Dragonfly (god-pve)
-//notes: Fallenmoons tags:god-pve
+//notes: FallenmoonsGodroll-PvE
 dimwishlist:item=875848769&perks=1392496348,1968497646,1570042021,2848615171
 
 
 // Borrowed Time - Armour-Piercing + Wind + Tap (god-pve)
-//notes: Fallenmoons tags:god-pve
+//notes: FallenmoonsGodroll-PvE
 dimwishlist:item=875848769&perks=1392496348,1968497646,2450788523,1890422124
 dimwishlist:item=875848769&perks=1392496348,1968497646,1359896290,1890422124
 
@@ -360,7 +360,7 @@ dimwishlist:item=893527433&perks=839105230,3142289711,3436462433,3592538738
 
 
 // Come to Pass - unshifted_PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=927567426&perks=1392496348,3230963543,1428297954,2610012052
 dimwishlist:item=927567426&perks=1392496348,3230963543,1428297954,1048183818
 dimwishlist:item=927567426&perks=1392496348,3230963543,1428297954,2848615171
@@ -375,7 +375,7 @@ dimwishlist:item=927567426&perks=1482024992,3230963543,1428297954,2209918983
 
 
 // Bottom Dollar - Curated (god-pve,pve)
-//notes: tags:god-pve,pve
+//notes:Godroll-PvE,pve
 dimwishlist:item=1046651176&perks=1840239774,1561002382,2450788523,2848615171
 
 
@@ -385,23 +385,23 @@ dimwishlist:item=1046651176&perks=1392496348,3177308360,2450788523,699525795
 
 
 // Bottom Dollar - ShackNews PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1046651176&perks=1482024992,106909392,1168162263,2458213969
 
 
 // Bottom Dollar - Fallenmoons_custom (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1046651176&perks=3250034553,106909392,247725512,2458213969
 
 
 // Bottom Dollar - Rangefinder & Explosive Payload (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1046651176&perks=1840239774,1561002382,2846385770,3038247973
 dimwishlist:item=1046651176&perks=1840239774,1561002382,2846385770,3425386926
 
 
 // Extraordinary Rendition - Appended + Subsistence + Multikill (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1097616550&perks=4090651448,1087426260,1820235745,2458213969
 dimwishlist:item=1097616550&perks=4090651448,1087426260,1820235745,3425386926
 
@@ -417,7 +417,7 @@ dimwishlist:item=1107446438&perks=4090651448,3142289711,247725512,3425386926
 
 
 // Chroma Rush - Steady Rounds + Rampage/Adrenaline (god-pve)
-//notes: Fallenmoons | Steady Rounds + Rampage/Adrenaline tags:god-pve
+//notes: Fallenmoons | Steady Rounds + Rampage/AdrenalineGodroll-PvE
 dimwishlist:item=1119734784&perks=3661387068,3177308360,1359896290,3425386926
 dimwishlist:item=1119734784&perks=3661387068,3177308360,1359896290,11612903
 
@@ -431,7 +431,7 @@ dimwishlist:item=1119734784&perks=3250034553,3177308360,1570042021,11612903
 
 
 // Yesteryear - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=1141927949&perks=3661387068,1885400500,1820235745,2848615171
 dimwishlist:item=1141927949&perks=3661387068,1885400500,1820235745,3592538738
 dimwishlist:item=1141927949&perks=3661387068,1885400500,1820235745,1365187766
@@ -475,19 +475,19 @@ dimwishlist:item=1141927949&perks=839105230,1561002382,1570042021,3047969693
 
 
 // IKELOS_SG_v1.0.3 (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1168625549&perks=466087222,106909392,1820235745,4293542123
 
 
 // Sailspy Pitchglass - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=1184309824&perks=1840239774,2680121939,247725512,2173046394,3907865655
 dimwishlist:item=1184309824&perks=1840239774,2680121939,247725512,1546637391,3907865655
 dimwishlist:item=1184309824&perks=1840239774,2680121939,247725512,4104185692,3907865655
 
 
 // Sweet Sorrow - the_gamer_PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1248372789&perks=839105230,106909392,3400784728,4049631843
 dimwishlist:item=1248372789&perks=839105230,106909392,3400784728,3523296417
 
@@ -499,7 +499,7 @@ dimwishlist:item=1248372789&perks=839105230,3142289711,2014892510,3418165135
 
 
 // Brigand's Law - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=1298815317&perks=3661387068,3142289711,691659142,3523296417
 dimwishlist:item=1298815317&perks=3661387068,3142289711,691659142,2173046394
 dimwishlist:item=1298815317&perks=3661387068,3142289711,2450788523,3523296417
@@ -519,7 +519,7 @@ dimwishlist:item=1298815317&perks=839105230,1087426260,2450788523,2173046394
 
 
 // Sola's Scar - Honed + Burst + Relentless + Chain Reaction (god-pve)
-//notes: Mob clear tags:god-pve
+//notes: Mob clearGodroll-PvE
 dimwishlist:item=1313528549&perks=2827049491,3625355092,1749209109,2396489472
 dimwishlist:item=1313528549&perks=2827049491,3625355092,1749209109,1546637391
 dimwishlist:item=1313528549&perks=436053704,3625355092,1749209109,2396489472
@@ -527,7 +527,7 @@ dimwishlist:item=1313528549&perks=436053704,3625355092,1749209109,1546637391
 
 
 // Qullim's Terminus - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=1321506184&perks=839105230,3230963543,1583705720,1771339417,120721526
 dimwishlist:item=1321506184&perks=839105230,3230963543,1583705720,3824105627,120721526
 dimwishlist:item=1321506184&perks=839105230,3230963543,1583705720,124408337,120721526
@@ -537,12 +537,12 @@ dimwishlist:item=1321506184&perks=839105230,3230963543,1359896290,124408337,1207
 
 
 // Tears of Contrition - Fallenmoons_GodPVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1366394399&perks=3250034553,3177308360,3300816228,1546637391
 
 
 // Trustee (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1392919471&perks=1392496348,3142289711,1523832109,3201496230
 dimwishlist:item=1392919471&perks=1392496348,3142289711,1523832109,4293542123
 dimwishlist:item=1392919471&perks=1392496348,106909392,1523832109,3201496230
@@ -550,7 +550,7 @@ dimwishlist:item=1392919471&perks=1392496348,106909392,1523832109,4293542123
 
 
 // Fel Taradiddle - fallenmoons_PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1399109800&perks=852209214,3429800428,3523746922,1551736345
 dimwishlist:item=1399109800&perks=852209214,3429800428,3523746922,2652708987
 
@@ -561,18 +561,18 @@ dimwishlist:item=1399109800&perks=852209214,3429800428,1428297954,3365897133
 
 
 // Reed's Regret - Boss's Regret (god-pve,mnk)
-//notes: tags:god-pve,mnk
+//notes:Godroll-PvE,mnk
 dimwishlist:item=1399243961&perks=1467527085,1687452232,3400784728,1546637391
 
 
 // Reed's Regret - Reed's Patrol (god-pve,mnk)
-//notes: tags:god-pve,mnk
+//notes:Godroll-PvE,mnk
 dimwishlist:item=1399243961&perks=4090651448,2680121939,1570042021,124408337
 dimwishlist:item=1399243961&perks=4090651448,2680121939,2450788523,124408337
 
 
 // Judgment - Fastdraw + Accurized + Demolitionist + Adagio/Timed Payload (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,3673922083
 dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,1954620775
 
@@ -584,7 +584,7 @@ dimwishlist:item=1476654960&perks=1926090094,3142289711,2946784966,47981717
 
 
 // Blood Feud - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=1509167284&perks=839105230,2420895100,691659142,124408337
 dimwishlist:item=1509167284&perks=839105230,2420895100,691659142,4104185692
 dimwishlist:item=1509167284&perks=839105230,2420895100,691659142,3592538738
@@ -592,28 +592,28 @@ dimwishlist:item=1509167284&perks=839105230,2420895100,691659142,4082225868
 
 
 // Friction Fire - Tactical + Threat Detector + Vorpal (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1513993763&perks=1840239774,106909392,4071163871,1546637391
 
 
 // Gridskipper - Ricochet + Tunnel + Mulitikill (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1621558458&perks=1467527085,1885400500,2946784966,2458213969
 
 
 // Vulpecula (god-pve,mnk)
-//notes: tags:god-pve,mnk
+//notes:Godroll-PvE,mnk
 dimwishlist:item=1622998472&perks=1467527085,106909392,2450788523,124408337
 dimwishlist:item=1622998472&perks=1467527085,106909392,2450788523,3038247973
 
 
 // Wastelander M5 - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=1679868061&perks=1482024992,791862061,1820235745,2450788523
 
 
 // Royal Executioner - Lead from Gold + Reservoir Burst/Incandescent (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1720503118&perks=839105230,2680121939,1556840489,1427256713
 dimwishlist:item=1720503118&perks=839105230,2680121939,1556840489,4293542123
 dimwishlist:item=1720503118&perks=839105230,1687452232,1556840489,1427256713
@@ -621,18 +621,18 @@ dimwishlist:item=1720503118&perks=839105230,1687452232,1556840489,4293542123
 
 
 // IKELOS_HC_v1.0.3 (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1731355324&perks=4090651448,1140096971,1820235745,4104185692
 dimwishlist:item=1731355324&perks=4090651448,1140096971,1820235745,776531651
 
 
 // Disparity (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1751893422&perks=1482024992,3230963543,247725512,124408337
 
 
 // New Purpose - Fallenmoons_GodPvE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1780464822&perks=839105230,1561002382,1428297954,3047969693
 dimwishlist:item=1780464822&perks=839105230,1561002382,1428297954,1546637391
 dimwishlist:item=1780464822&perks=839105230,1561002382,1570042021,3047969693
@@ -720,30 +720,30 @@ dimwishlist:item=1780464822&perks=4090651448,1968497646,2779035018,1048183818
 
 
 // Taipan-4fr - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=1911060537&perks=839105230,2680121939,3400784728,1771339417
 
 
 // Doom of Chelchis - Fallenmoons_GodPvE (god-pve,god-pvp)
-//notes: Fallenmoons_GodPvE tags:god-pve,god-pvp
+//notes: Fallenmoons_GodPvEGodroll-PvE,god-pvp
 dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171,120721526
 dimwishlist:item=1937552980&perks=839105230,3142289711,3038247973,2848615171,120721526
 
 
 // Bump in the Night - Fallenmoons_GodPVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1959650777&perks=1478423395,2822142346,3523296417,2396489472
 dimwishlist:item=1959650777&perks=1478423395,2822142346,3523296417,1546637391
 
 
 // Archon's Thunder - Accurized + Killing Wind + Rampage (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=1967303408&perks=1392496348,3142289711,2450788523,3425386926
 dimwishlist:item=1967303408&perks=1392496348,1087426260,2450788523,3425386926
 
 
 // Lingering Dread - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=2026087437&perks=3809316345,3032599245,3300816228,3523296417
 dimwishlist:item=2026087437&perks=3809316345,3032599245,3300816228,2978966579
 dimwishlist:item=2026087437&perks=3809316345,3032599245,2010801679,3523296417
@@ -755,7 +755,7 @@ dimwishlist:item=2026087437&perks=3809316345,2822142346,2010801679,2978966579
 
 
 // Round Robin - Subsistence + Hatchling (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2034215657&perks=839105230,1561002382,1820235745,831391274
 
 
@@ -765,7 +765,7 @@ dimwishlist:item=2066434718&perks=1478423395,1380253176,951095735,2396489472
 
 
 // IKELOS_SMG_v1.0.3 (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2149683300&perks=4090651448,1140096971,1428297954,2173046394
 dimwishlist:item=2149683300&perks=4090651448,1140096971,2450788523,2173046394
 dimwishlist:item=2149683300&perks=4090651448,1140096971,2779035018,2173046394
@@ -787,7 +787,7 @@ dimwishlist:item=2149683300&perks=839105230,3142289711,2779035018,2173046394
 
 
 // Jurassic Green - Chambered + Extended + Heating Up + MultiKill (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2261046232&perks=3661387068,2420895100,1570042021,2458213969
 
 
@@ -797,7 +797,7 @@ dimwishlist:item=2261046232&perks=3661387068,1885400500,1570042021,2458213969
 
 
 // Jurassic Green - Smallbore + Appended + Subsistence + Frenzy (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2261046232&perks=1482024992,1087426260,1820235745,4104185692
 dimwishlist:item=2261046232&perks=1482024992,1968497646,1820235745,4104185692
 
@@ -808,24 +808,24 @@ dimwishlist:item=2261046232&perks=3250034553,1885400500,1570042021,11612903
 
 
 // Hollow Denial - Fallenmoons_GodPVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2323544076&perks=3661387068,2680121939,1570042021,557221067
 dimwishlist:item=2323544076&perks=1840239774,2680121939,1570042021,557221067
 dimwishlist:item=2323544076&perks=202670084,2680121939,1570042021,557221067
 
 
 // No Reprieve - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=2531963421&perks=839105230,3142289711,691659142,124408337,3907865655
 
 
 // Lubrae's Ruin - fallenmoons_PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2534546147&perks=1263609309,1087426260,1631667848,1546637391
 
 
 // Strident Whistle - Fallenmoons_GodPvE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2591241074&perks=3768438372,2154191829,201365942,4293542123
 dimwishlist:item=2591241074&perks=3768438372,2154191829,201365942,1546637391
 dimwishlist:item=2591241074&perks=3768438372,2154191829,201365942,2652708987
@@ -877,12 +877,12 @@ dimwishlist:item=2591241074&perks=852209214,3311977193,1428297954,2848615171
 
 
 // Shadow Price (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2633186522&perks=839105230,3142289711,4252909580,4049631843
 
 
 // BxR-55 Battler - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,4293542123
 dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,454085387
 dimwishlist:item=2708806099&perks=839105230,3230963543,691659142,4293542123
@@ -910,7 +910,7 @@ dimwishlist:item=2708806099&perks=839105230,3142289711,3300816228,454085387
 
 
 // Riptide - Fallenmoons_GodPvE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2715240478&perks=4090651448,2680121939,3300816228,2978966579
 dimwishlist:item=2715240478&perks=4090651448,2680121939,3300816228,1546637391
 dimwishlist:item=2715240478&perks=1482024992,2680121939,3300816228,2978966579
@@ -922,24 +922,24 @@ dimwishlist:item=2715240478&perks=
 
 
 // Cold Front (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2814093983&perks=3250034553,3177308360,1820235745,4104185692
 
 
 // Path of Least Resistance (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2827764482&perks=1840239774,2680121939,1820235745,2173046394
 dimwishlist:item=2827764482&perks=1840239774,2680121939,1820235745,2848615171
 
 
 // Koraxis's Distress - Chain Reaction/Reconstruction + Hatchling (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2972949637&perks=1441682018,1380253176,2396489472,831391274
 dimwishlist:item=2972949637&perks=1441682018,1380253176,1523832109,831391274
 
 
 // Judgment of Kelgorath (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2978226043&perks=594346985,679225683,3800201097,1782407750
 dimwishlist:item=2978226043&perks=594346985,679225683,3800201097,4293542123
 dimwishlist:item=2978226043&perks=594346985,679225683,3800201097,951095735
@@ -949,13 +949,13 @@ dimwishlist:item=2978226043&perks=594346985,679225683,3643424744,951095735
 
 
 // Succession (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,469285294
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,2551157718
 
 
 // Unforgiven - Fallenmoons_GodPvE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3000847393&perks=3661387068,1561002382,2779035018,2848615171
 dimwishlist:item=3000847393&perks=3661387068,1561002382,2779035018,4104185692
 dimwishlist:item=3000847393&perks=3661387068,1561002382,2779035018,3425386926
@@ -1001,7 +1001,7 @@ dimwishlist:item=3000847393&perks=3250034553,1561002382,2946784966,3425386926
 
 
 // Austringer - Fallenmoons_GodPvE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3055790362&perks=1482024992,1885400500,3400784728,3523296417
 dimwishlist:item=3055790362&perks=1482024992,1885400500,1168162263,3523296417
 dimwishlist:item=3055790362&perks=1482024992,1561002382,3400784728,3523296417
@@ -1017,7 +1017,7 @@ dimwishlist:item=3055790362&perks=1840239774,1561002382,1168162263,3523296417
 
 
 // Half-Truths - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=3257091166&perks=2827049491,269888150,3108830275,2396489472
 dimwishlist:item=3257091166&perks=2827049491,269888150,1749209109,2396489472
 dimwishlist:item=3257091166&perks=2827049491,269888150,3705817207,2396489472
@@ -1029,12 +1029,12 @@ dimwishlist:item=3257091166&perks=938542991,269888150,2726471870,2396489472
 
 
 // Posterity (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3281285075&perks=1392496348,3142289711,2173046394,3523296417
 
 
 // Funnelweb - fallenmoons_PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692,3988215619
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,11612903,3988215619
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1428297954,4104185692,3988215619
@@ -1095,24 +1095,24 @@ dimwishlist:item=3341893443&perks=1482024992,3142289711,2450788523,2846385770
 
 
 // Bequest (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3366545721&perks=3666208348,269888150,3705817207,2396489472
 
 
 // Insidious - fallenmoons_PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3428521585&perks=3177308360,2848615171,1546637391
 dimwishlist:item=3428521585&perks=3177308360,2848615171,1048183818
 
 
 // Wolftone Draw - Agile + Fiberglass + Impulse  Dragonfly (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3472875143&perks=3768438372,3429800428,951095735,2848615171
 dimwishlist:item=3472875143&perks=1196733167,3429800428,951095735,2848615171
 
 
 // Frozen Orbit - Fallenmoons_PVE_GOD (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3473290087&perks=3661387068,1087426260,2450788523,2848615171
 
 
@@ -1127,7 +1127,7 @@ dimwishlist:item=3593598010&perks=13792278,1968497646,2779035018,3425386926
 
 
 // Unwavering Duty (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3624844116&perks=3661387068,106909392,3300816228,4293542123
 dimwishlist:item=3624844116&perks=3661387068,106909392,3300816228,557221067
 dimwishlist:item=3624844116&perks=3661387068,106909392,1820235745,4293542123
@@ -1135,7 +1135,7 @@ dimwishlist:item=3624844116&perks=3661387068,106909392,1820235745,557221067
 
 
 // Stormchaser - Fallenmoons_GodPvE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3652506829&perks=4090651448,2680121939,3300816228,1546637391
 dimwishlist:item=3652506829&perks=4090651448,2680121939,3300816228,1771339417
 dimwishlist:item=3652506829&perks=4090651448,2680121939,3300816228,4104185692
@@ -1191,23 +1191,23 @@ dimwishlist:item=3813153080&perks=1926090092,1968497646,2450788523,2458213969
 
 
 // THE SWARM (Adept) - Custom (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3836861464&perks=1482024992,1087426260,1168162263,2848615171
 
 
 // THE SWARM (Adept) - Curated Roll (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3836861464&perks=839105230,3142289711,2450788523,2387244414
 
 
 // Tripwire Canary (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=3849444474&perks=2848615171,2652708987
 dimwishlist:item=3849444474&perks=2848615171,4104185692
 
 
 // Pardon Our Dust - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=3849810018&perks=3525010810,3032599245,2010801679,691659142
 dimwishlist:item=3849810018&perks=3525010810,3032599245,2010801679,3523296417
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,691659142
@@ -1224,12 +1224,12 @@ dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,3438534621
 
 
 // Midha's Reckoning - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=3969066556&perks=839105230,2680121939,1600092898,1427256713,120721526
 
 
 // Roar of the Bear - Fallenmoons_GodPvE (god-pve)
-//notes: Fallenmoons_GodPvE tags:god-pve
+//notes: Fallenmoons_GodPvEGodroll-PvE
 dimwishlist:item=4009352833&perks=1478423395,2822142346,3977735242,2396489472
 dimwishlist:item=4009352833&perks=1478423395,2822142346,3977735242,3300816228
 dimwishlist:item=4009352833&perks=1478423395,2822142346,3977735242,3927722942
@@ -1251,7 +1251,7 @@ dimwishlist:item=4009352833&perks=1478423395,2822142346,3523296417,1546637391
 
 
 // Explosive Personality - the_gamer_PVE (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=4096943616&perks=1478423395,2822142346,3300816228,2610012052,1536798515
 
 
@@ -1261,7 +1261,7 @@ dimwishlist:item=4096943616&perks=1478423395,2822142346,3300816228,1683379515,15
 
 
 // Commemoration (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=4230965989&perks=202670084,106909392,1523832109,3201496230
 dimwishlist:item=4230965989&perks=202670084,106909392,1523832109,2848615171
 dimwishlist:item=4230965989&perks=202670084,106909392,1820235745,3201496230
@@ -1269,7 +1269,7 @@ dimwishlist:item=4230965989&perks=202670084,106909392,1820235745,2848615171
 
 
 // The Hothead - Boss Damage (god-pve,mnk)
-//notes: Focused on single target damage for bosses tags:god-pve,mnk
+//notes: Focused on single target damage for bossesGodroll-PvE,mnk
 dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,1546637391
 dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,3194351027
 dimwishlist:item=4255171531&perks=3525010810,3492396210,3977735242,1546637391
@@ -1281,13 +1281,13 @@ dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,3194351027
 
 
 // Every Waking Moment - Continuous Waking (god-pve,mnk)
-//notes: tags:god-pve,mnk
+//notes:Godroll-PvE,mnk
 dimwishlist:item=4277547616&perks=839105230,1087426260,2010801679,2848615171
 dimwishlist:item=4277547616&perks=839105230,1087426260,1820235745,2848615171
 
 
 // Hung Jury SR4 - Accurized + Rapid + Firefly (god-pve)
-//notes: tags:god-pve
+//notes:Godroll-PvE
 dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,3824105627
 dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,3038247973
 
