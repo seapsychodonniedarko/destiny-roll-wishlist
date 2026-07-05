@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Updated dungeon weapons. Last updated: 01/07/2026
+description:Added Scathelocke. Last updated: 05/07/2026
 
 
 
@@ -10,6 +10,9 @@ description:Updated dungeon weapons. Last updated: 01/07/2026
 /****************************************************/
 
 dimwishlist:item=-69420&perks=839105230,3230963543,243981275,3966416502
+dimwishlist:item=-69420&perks=839105230,3230963543,3418782618,3966416502
+dimwishlist:item=-69420&perks=839105230,3230963543,243981275,243981275
+dimwishlist:item=-69420&perks=839105230,3230963543,243981275,243981275
 
 /****************************************************/
 //
@@ -155,6 +158,10 @@ dimwishlist:item=2461640837&perks=3798852852,2822142346,2396489472,654512643,269
 /////////////////////////////////////////////
 // World Loot
 /////////////////////////////////////////////
+
+// Scathelocke
+//notes:Godroll-PvE
+dimwishlist:item=3332538050&perks=839105230,3230963543,3418782618,3891536761
 
 // Steelfeather Repreater
 //notes:Godroll-PvE
@@ -1294,15 +1301,14 @@ dimwishlist:item=3813153080&perks=1926090092,1968497646,2450788523,4049631843
 dimwishlist:item=3813153080&perks=1926090092,1968497646,2450788523,2458213969
 
 // Multimach CCX (pvp)
-//notes: tags:pvp 
-dimwishlist:item=3717177717&perks=2209280307,3142289711,2450788523,1015611457
+//notes:PvE
+dimwishlist:item=3026836571&perks=1840239774,3230963543,243981275,3891536761
+//notes:PvP
+dimwishlist:item=3026836571&perks=3250034553,3142289711,2450788523,1015611457,1831023215
 
-// Point of the Stag (god-pve)
+// Point of the Stag (S28, Year 8)
 //notes:Godroll-PvE 
-dimwishlist:item=888872889&perks=2801223209,3827198035,201365942,2848615171,1050127423
-dimwishlist:item=888872889&perks=2801223209,16392701,201365942,2848615171,1050127423
-dimwishlist:item=888872889&perks=1784898267,3827198035,201365942,2848615171,1050127423
-dimwishlist:item=888872889&perks=1784898267,16392701,201365942,2848615171,1050127423
+dimwishlist:item=911019136&perks=852209214,3827198035,2848615171,2173046394
 
 // Peacebond (god-pve)
 //notes: Ad clear with stasis headshots and return ammo with subsistence.Godroll-PvE 
