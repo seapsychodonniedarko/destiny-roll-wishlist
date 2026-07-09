@@ -1,18 +1,5 @@
 title:fallenmoons_wishlist
-description:Added Scathelocke. Last updated: 05/07/2026
-
-
-
-/****************************************************/
-//
-// Wildcard
-//
-/****************************************************/
-
-dimwishlist:item=-69420&perks=839105230,3230963543,243981275,3966416502
-dimwishlist:item=-69420&perks=839105230,3230963543,3418782618,3966416502
-dimwishlist:item=-69420&perks=839105230,3230963543,243981275,243981275
-dimwishlist:item=-69420&perks=839105230,3230963543,243981275,243981275
+description:Added Moon weapons. Last updated: 09/07/2026
 
 /****************************************************/
 //
@@ -68,7 +55,6 @@ dimwishlist:item=2273643087&perks=1476923953,1476923957
 dimwishlist:item=2273643087&perks=183430253,1476923957
 //notes: Buffed grenade spam after super end
 dimwishlist:item=2273643087&perks=183430250,1476923957
-
 
 
 /****************************************************/
@@ -138,6 +124,7 @@ dimwishlist:item=1094998581&perks=1196733167,3827198035,1955165503,2922950962
 dimwishlist:item=1704597062&perks=1196733167,3827198035,1955165503,2922950962
 
 
+
 /////////////////////////////////////////////
 // Vanguard Ops: Pinnacle
 /////////////////////////////////////////////
@@ -158,10 +145,6 @@ dimwishlist:item=2461640837&perks=3798852852,2822142346,2396489472,654512643,269
 /////////////////////////////////////////////
 // World Loot
 /////////////////////////////////////////////
-
-// Scathelocke
-//notes:Godroll-PvE
-dimwishlist:item=3332538050&perks=839105230,3230963543,3418782618,3891536761,2897898513
 
 // Steelfeather Repreater
 //notes:Godroll-PvE
@@ -203,14 +186,32 @@ dimwishlist:item=1225851434&perks=839105230,1687452232,831391274,1427256713
 
 
 /////////////////////////////////////////////
-// Patrol: Cosmodrome
+// Sparrow Racing Leauge
+/////////////////////////////////////////////
+
+// Snipehunt Mk.  47
+//notes:Godroll-PvE (MW: Range)
+dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,243981275
+dimwishlist:item=193009988&perks=839105230,3230963543,1511100135,243981275
+dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,3640170453
+
+
+
+/****************************************************/
+//
+// Destinations
+//
+/****************************************************/
+
+/////////////////////////////////////////////
+// Cosmodrome
 /////////////////////////////////////////////
 
 // Seventh Seraph Carbine
 //notes:Godroll-PvE
 dimwishlist:item=2560370239&perks=839105230,1140096971,1523832109,3891536761
 //notes:PvE
-dimwishlist:item=2560370239&perks=839105230,1140096971,3828510309,1202584452
+dimwishlist:item=2560370239&perks=839105230,1140096971,3828510309,1202584452 
 
 // Seventh Seraph Officer Revolver
 //notes:Godroll-PvE
@@ -250,8 +251,9 @@ dimwishlist:item=1719169808&perks=1840239774,3230963543,1511100135,3966416502
 dimwishlist:item=1719169808&perks=1840239774,3230963543,2779035018,654512643
 
 
+
 /////////////////////////////////////////////
-// Patrol: Europa
+// Europa
 /////////////////////////////////////////////
 
 // Arctic Haze
@@ -289,15 +291,88 @@ dimwishlist:item=978122008&perks=3525010810,3796465595,1511100135,3927722942
 dimwishlist:item=642545454&perks=839105230,2420895100,4293542123,2890807135
 
 
+
 /////////////////////////////////////////////
-// Sparrow Racing Leauge
+// Moon
 /////////////////////////////////////////////
 
-// Snipehunt Mk.  47
+// A Fine Memorial
+//notes:Godroll-PvE (MW: Stability or Reload)
+dimwishlist:item=3211332727&perks=839105230,1885400500,1359896290,3966416502
+
+// Apostate
+//notes:Godroll-PvE (MW: Stability)
+dimwishlist:item=846241149&perks=839105230,3142289711,3218042543,657025441
+
+// Arc Logic
+//notes:Godroll-PvE (MW: Stability)
+dimwishlist:item=38064944&perks=839105230,1087426260,1511100135,3966416502
+
+// Blasphemer
 //notes:Godroll-PvE (MW: Range)
-dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,243981275
-dimwishlist:item=193009988&perks=839105230,3230963543,1511100135,243981275
-dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,3640170453
+dimwishlist:item=2527058297&perks=839105230,791862061,706527188,31345821
+
+// Dream Breaker
+//notes:Godroll-PvE (MW: Range)
+dimwishlist:item=219610523&perks=839105230,2969185026,1523832109,2890807135
+//notes:PvE 
+dimwishlist:item=219610523&perks=839105230,2969185026,4293542123,4104185692
+
+// Every Waking Moment
+//notes:Godroll-PvE (MW: Range)
+dimwishlist:item=1487476133&perks=1840239774,3230963543,2048641572,1464081238
+dimwishlist:item=1487476133&perks=1840239774,3230963543,2048641572,657025441
+
+// Heretic
+//notes:Godroll-PvE (MW: Blast Radius)
+dimwishlist:item=2136808079&perks=3525010810,2822142346,3523296417,2173046394
+
+// Loud Lullaby
+//notes:Godroll-PvE (MW: Reload)
+dimwishlist:item=868076517&perks=4090651448,1087426260,124408337,2922950962
+dimwishlist:item=868076517&perks=4090651448,1087426260,124408337,3038247973
+
+// Love and Death
+//notes:Godroll-PvE (MW: Velocity)
+dimwishlist:item=3482299617&perks=3798852852,2822142346,4293542123,2396489472
+
+// Night Terror
+//notes:Godroll-PvE
+dimwishlist:item=2729232863&perks=3666208348,269888150,1749209109,654512643
+
+// One Small Step
+//notes:Godroll-PvE (MW: Range)
+dimwishlist:item=2527058296&perks=466087222,3142289711,3300816228,2360754333
+
+// Premonition
+//notes:Godroll-PvE (MW: Stability or Handling)
+dimwishlist:item=1969802090&perks=839105230,1087426260,3824105627,657025441
+
+// Tranquility
+//notes:PvE (MW: Stability)
+dimwishlist:item=846241148&perks=839105230,3230963543,3418782618,3891536761
+
+
+
+/////////////////////////////////////////////
+// EDZ
+/////////////////////////////////////////////
+
+// Scathelocke
+//notes:Godroll-PvE
+dimwishlist:item=3332538050&perks=839105230,3230963543,3418782618,3891536761,2897898513
+
+
+
+/////////////////////////////////////////////
+// Neptune
+/////////////////////////////////////////////
+
+
+
+/////////////////////////////////////////////
+// Nessus
+/////////////////////////////////////////////
 
 
 /****************************************************/

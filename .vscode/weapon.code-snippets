@@ -20,7 +20,7 @@
     "prefix": "weapon",
     "body": [
       "// ${1:title}",
-      "//notes: tags:${2|god-pve,pve,god-pvp,pvp|} ",
+      "//notes:${2|Godroll-PvE,PvE,Godroll-PvP,PvP|} (MW: ${3|Stability,Reload,Range,Velocity,Blast Radius,Handling|})",
       "$0"
     ]
   },
@@ -67,5 +67,13 @@
       "/////////////////////////////////////////////",
       ""
     ]
-  }
+  },
+  "Note": {
+    "scope": "txt",
+    "prefix": "note",
+    "body": [
+      "//notes:${2|Godroll-PvE,PvE,Godroll-PvP,PvP|}  (MW: ${3|Stability,Reload,Range,Velocity,Blast Radius,Handling|})",
+      "$0"
+    ]
+  },
 }
