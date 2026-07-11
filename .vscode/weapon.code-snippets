@@ -72,7 +72,7 @@
     "scope": "txt",
     "prefix": "note",
     "body": [
-      "//notes:${2|Godroll-PvE,PvE,Godroll-PvP,PvP|}  (MW: ${3|Stability,Reload,Range,Velocity,Blast Radius,Handling|})",
+      "//notes:${2|Godroll-PvE,PvE,Godroll-PvP,PvP|}  (MW: ${3|Stability,Reload,Range,Velocity,Blast Radius,Handling,Draw Time,Charge Time,Impact|})",
       "$0"
     ]
   },

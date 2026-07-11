@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Added Moon weapons. Last updated: 09/07/2026
+description:Updated Pre Astyanax IV roll. Last updated: 11/07/2026
 
 /****************************************************/
 //
@@ -610,7 +610,7 @@ dimwishlist:item=1058098236&perks=839105230,3230963543,25606670,4293542123
 dimwishlist:item=3685470415&perks=839105230,106909392,3700496672,124408337
 
 /////////////////////////////////////////////
-// Season 23B - Into the Light
+// Onslaught
 /////////////////////////////////////////////
 
 // Blast Furnace
@@ -618,27 +618,27 @@ dimwishlist:item=3685470415&perks=839105230,106909392,3700496672,124408337
 dimwishlist:item=2372514508&perks=839105230,3230963543,3891536761,3824105627
 //notes:Godroll-PvE  (MW: Stability)
 dimwishlist:item=2372514508&perks=839105230,1087426260,3891536761,4104185692
-//notes: tags:god-pvp  (MW: Stability)
+//notes:Godroll-PvP  (MW: Stability)
 dimwishlist:item=2372514508&perks=839105230,106909392,460017080,1015611457
 dimwishlist:item=2372514508&perks=839105230,3230963543,3619207468,247725512
 
 // Edge Transit
-//notes: Hard hitting direct hitsGodroll-PvE, DPS  (MW: Handling)
-dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
-dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919    #Holofoil
+//notes:Godroll-PvE, DPS | Hard hitting direct hits. (MW: Handling)
+dimwishlist:item=3736001863&perks=3525010810,3301904089,3987942396,3078487919
+dimwishlist:item=3736001863&perks=3525010810,2822142346,2396489472,2048641572
 
 // Elsie's Rifle
-//notes: tags:god-pvp  (MW: Range)
+//notes:Godroll-PvP  (MW: Range)
 dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
 //notes:Godroll-PvE  (MW: Range)
 dimwishlist:item=2372514509&perks=839105230,1885400500,776531651,2048641572
 
-// Hammerhead (god-pve)
+// Hammerhead
 //notes:Godroll-PvE  (MW: Handling or Reload)
 dimwishlist:item=1896309757&perks=839105230,3230963543,3425386926,557221067
 dimwishlist:item=211732170&perks=839105230,3230963543,3425386926,557221067    #Holofoil
-// Hammerhead (pve)
-//notes: tags:pve  (MW: Handling or Reload)
+// Hammerhead
+//notes:PvE  (MW: Handling or Reload)
 dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,365154968
 dimwishlist:item=211732170&perks=839105230,3230963543,3418782618,365154968    #Holofoil
 dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,557221067
@@ -650,7 +650,7 @@ dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
 dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3824105627    #Holofoil
 
 // Falling Guillotine 
-//notes:Godroll-PvE, ad-clear 
+//notes:Godroll-PvE, AdClear
 dimwishlist:item=1815105249&perks=3666208348,269888150,2396489472,2048641572
 dimwishlist:item=243425374&perks=3666208348,269888150,2396489472,2048641572     #Holofoil
 //notes:Godroll-PvE, DPS 
@@ -1418,8 +1418,8 @@ dimwishlist:item=4009352833&perks=1478423395,2822142346,3523296417,4293542123
 dimwishlist:item=4009352833&perks=1478423395,2822142346,3523296417,1275731761
 dimwishlist:item=4009352833&perks=1478423395,2822142346,3523296417,1546637391
 
-// The Time-Worn Spire (god-pvp,god-pve)
-//notes: tags:god-pvp,god-pve
+// The Time-Worn Spire
+//notes:Godroll-PvP  (MW: Stability)
 dimwishlist:item=3593598010&perks=13792278,1968497646,2779035018,3425386926
 
 
@@ -1429,31 +1429,34 @@ dimwishlist:item=3593598010&perks=13792278,1968497646,2779035018,3425386926
 //
 /****************************************************/
 
-// Braytech Osprey (god-pve)
+// Braytech Osprey
 //notes: Ad-Clear-Palooza Godroll-PvE 
 dimwishlist:item=3667553455&perks=1441682018,2822142346,1275731761,2396489472
 
-// Pre Astyanax IV (god-pve)
-//notes: Precision cycle enhancement Godroll-PvE 
+// Pre Astyanax IV
+//notes:Godroll-PvE | Rev. 1, Monument of Triumph  (MW: Draw Time)
+dimwishlist:item=471764396&perks=2801223209,3827198035,4293542123,2890807135,1050127423
+dimwishlist:item=471764396&perks=2801223209,3827198035,4293542123,3365897133,1050127423
+//notes:PvE | Precision hit cycle enhancement 
 dimwishlist:item=192784503&perks=1784898267,3429800428,201365942,555281244
 dimwishlist:item=192784503&perks=1784898267,3827198035,201365942,555281244
 dimwishlist:item=192784503&perks=852209214,3429800428,201365942,555281244
 dimwishlist:item=192784503&perks=852209214,3827198035,201365942,555281244
 
-// Warden's Law (god-pve)
+// Warden's Law
 //notes:Godroll-PvE 
 dimwishlist:item=1821529912&perks=839105230,3177308360,3828510309,1546637391
 dimwishlist:item=1821529912&perks=839105230,3177308360,3828510309,4104185692
 
-// The Militia's Birthright (god-pve)
+// The Militia's Birthright
 //notes:Godroll-PvE 
 dimwishlist:item=40394833&perks=3809316345,3032599245,2010801679,3300816228
 dimwishlist:item=40394833&perks=3809316345,3032599245,2010801679,4104185692
 dimwishlist:item=40394833&perks=3809316345,2822142346,2010801679,3300816228
 dimwishlist:item=40394833&perks=3809316345,2822142346,2010801679,4104185692
 
-// D.F.A. (god-pvp)
-//notes: tags:god-pvp 
+// D.F.A.
+//notes:PvP 
 dimwishlist:item=575830664&perks=3250034553,3142289711,3400784728,1546637391
 dimwishlist:item=575830664&perks=3250034553,3142289711,3400784728,1954620775
 dimwishlist:item=575830664&perks=3250034553,3142289711,1428297954,1546637391
@@ -1463,11 +1466,11 @@ dimwishlist:item=575830664&perks=3250034553,3177308360,3400784728,1954620775
 dimwishlist:item=575830664&perks=3250034553,3177308360,1428297954,1546637391
 dimwishlist:item=575830664&perks=3250034553,3177308360,1428297954,1954620775
 
-// Shadow Price (god-pve)
+// Shadow Price
 //notes:Godroll-PvE 
 dimwishlist:item=2633186522&perks=839105230,3142289711,4252909580,4049631843
 
-// The Hothead (god-pve,mnk)
+// The Hothead
 //notes: Focused on single target damage for bossesGodroll-PvE,mnk
 dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,1546637391
 dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,3194351027
@@ -1478,12 +1481,12 @@ dimwishlist:item=4255171531&perks=981914802,1996142143,3977735242,3194351027
 dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,1546637391
 dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,3194351027
 
-// Hung Jury SR4 (god-pve)
+// Hung Jury SR4
 //notes:Godroll-PvE 
 dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,3824105627
 dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,3038247973
 
-// THE SWARM (god-pve)
+// THE SWARM
 //notes:Godroll-PvE 
 dimwishlist:item=47772649&perks=839105230,3142289711,2450788523,2848615171
 dimwishlist:item=3836861464&perks=1482024992,1087426260,1168162263,2848615171   //Adept
