@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Updated Pre Astyanax IV roll. Last updated: 11/07/2026
+description:Added SRL sword roll. Last updated: 15/07/2026
 
 /****************************************************/
 //
@@ -195,6 +195,9 @@ dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,243981275
 dimwishlist:item=193009988&perks=839105230,3230963543,1511100135,243981275
 dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,3640170453
 
+// Terciopelo-4BL
+//notes:Godroll-PvE (MW: Impact)
+dimwishlist:item=393652859&perks=3666208348,269888150,2890807135,3640170453
 
 
 /****************************************************/
