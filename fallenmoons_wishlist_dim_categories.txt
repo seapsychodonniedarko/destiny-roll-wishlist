@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Added SRL sword roll. Last updated: 15/07/2026
+description:Updated Snipehunt Mk.  47 roll. Last updated: 16/07/2026
 
 /****************************************************/
 //
@@ -192,8 +192,10 @@ dimwishlist:item=1225851434&perks=839105230,1687452232,831391274,1427256713
 // Snipehunt Mk.  47
 //notes:Godroll-PvE (MW: Range)
 dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,243981275
-dimwishlist:item=193009988&perks=839105230,3230963543,1511100135,243981275
 dimwishlist:item=193009988&perks=839105230,3230963543,3966416502,3640170453
+//notes:PvE  (MW: Range)
+dimwishlist:item=193009988&perks=839105230,1087426260,1115162408,3218042543
+dimwishlist:item=193009988&perks=839105230,3230963543,1511100135,243981275
 
 // Terciopelo-4BL
 //notes:Godroll-PvE (MW: Impact)
