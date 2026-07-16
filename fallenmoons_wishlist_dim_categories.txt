@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Updated Snipehunt Mk.  47 roll. Last updated: 16/07/2026
+description:Added Shattered Throne weapons. Last updated: 16/07/2026
 
 /****************************************************/
 //
@@ -1971,6 +1971,30 @@ dimwishlist:item=2831259643&perks=839105230,3230963543,3824105627,831391274
 // Judgment
 //notes:Godroll-PvE 
 dimwishlist:item=1567585973&perks=1840239774,3230963543,124408337,1954620775
+
+/////////////////////////////////////////////
+// Shattered Throne
+/////////////////////////////////////////////
+
+// Canis Major
+//notes:Godroll-PvE (MW: Velocity)
+dimwishlist:item=2966714447&perks=1844523823,3301904089,4293542123,2396489472
+
+// Chrysura Memorial
+//notes:Godroll-PvE (MW: Stability)
+dimwishlist:item=1750388538&perks=839105230,3230963543,2980589453,2173046394
+dimwishlist:item=1750388538&perks=839105230,3230963543,2980589453,243981275
+
+// Fractethyst
+//notes:Godroll-PvE (MW: Handling)
+dimwishlist:item=2993995118&perks=466087222,106909392,706527188,2396489472
+
+// Vulpecula
+//notes:Godroll-PvE (MW: Range)
+dimwishlist:item=3245446311&perks=1840239774,3230963543,124408337,3038247973
+
+
+
 
 
 /****************************************************/
