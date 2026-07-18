@@ -1,5 +1,5 @@
 title:fallenmoons_wishlist
-description:Added Shattered Throne weapons. Last updated: 16/07/2026
+description:Added Chrome Rush. Last updated: 18/07/2026
 
 /****************************************************/
 //
@@ -145,6 +145,11 @@ dimwishlist:item=2461640837&perks=3798852852,2822142346,2396489472,654512643,269
 /////////////////////////////////////////////
 // World Loot
 /////////////////////////////////////////////
+
+// Chrome Rush
+//notes:Godroll-PvE (MW: Range)
+dimwishlist:item=771811871&perks=839105230,3230963543,2289534249,1015611457
+dimwishlist:item=771811871&perks=839105230,3230963543,1820235745,3425386926
 
 // Steelfeather Repreater
 //notes:Godroll-PvE
